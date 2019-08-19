@@ -1,0 +1,13 @@
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.deps.json
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.dll
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.pdb
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Entities.dll
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.csprojResolveAssemblyReference.cache
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CoreCompileInputs.cache
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfoInputs.cache
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfo.cs
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.dll
+D:\my-Tests\2019\Angular\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.pdb

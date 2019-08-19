@@ -1,0 +1,25 @@
+2019-08-16 10:06:25.9101 INFO Here is info message from our values controller.
+2019-08-16 10:06:25.9101 DEBUG Here is debug message from our values controller.
+2019-08-16 10:06:25.9101 WARN Here is warn message from our values controller.
+2019-08-16 10:06:25.9101 ERROR Here is error message from our values controller.
+2019-08-16 10:08:16.2720 INFO Here is info message from our values controller.
+2019-08-16 10:08:16.3354 DEBUG Here is debug message from our values controller.
+2019-08-16 10:08:16.3354 WARN Here is warn message from our values controller.
+2019-08-16 10:08:16.3502 ERROR Here is error message from our values controller.
+2019-08-16 10:09:19.0876 INFO Here is info message from our values controller.
+2019-08-16 10:09:19.1492 DEBUG Here is debug message from our values controller.
+2019-08-16 10:09:19.1492 WARN Here is warn message from our values controller.
+2019-08-16 10:09:19.1492 ERROR Here is error message from our values controller.
+2019-08-16 15:42:27.0375 INFO Here is info message from our values controller.
+2019-08-16 15:42:27.2392 DEBUG Here is debug message from our values controller.
+2019-08-16 15:42:27.2444 WARN Here is warn message from our values controller.
+2019-08-16 15:42:27.2444 ERROR Here is error message from our values controller.
+2019-08-16 17:04:39.3434 INFO Returned all owners from database.
+2019-08-16 17:19:00.2598 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-16 17:19:10.0214 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5621, hasn't been found in db.
+2019-08-16 17:19:42.7845 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-16 17:19:52.2629 INFO Returned all owners from database.
+2019-08-16 17:20:09.8956 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-08-16 17:50:03.0863 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-08-16 17:50:46.9740 INFO Returned all owners from database.
+2019-08-16 17:51:04.5114 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
