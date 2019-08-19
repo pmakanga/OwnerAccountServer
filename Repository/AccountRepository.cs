@@ -19,5 +19,20 @@ namespace Repository
         {
             return FindByCondition(a => a.OwnerId.Equals(ownerId)).ToList();
         }
+
+        public IEnumerable<Account> GetAllAccounts()
+        {
+            return FindAll()
+                .OrderBy(a => a.AccountType)
+                .ToList();
+                
+        }
+
+        public Account GetAccountById(Guid accountId)
+        {
+            return FindByCondition(account => account.Id.Equals(accountId))
+                .DefaultIfEmpty(new Account())
+                .FirstOrDefault();
+        }
     }
 }

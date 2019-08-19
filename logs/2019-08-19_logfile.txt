@@ -1,3 +1,5 @@
 2019-08-19 09:36:07.2284 INFO Returned all owners from database.
 2019-08-19 10:01:33.7359 INFO Returned all owners from database.
 2019-08-19 10:25:05.2737 INFO Returned all owners from database.
+2019-08-19 11:13:13.9352 INFO $Retuned all accounts from the database.
+2019-08-19 11:58:46.3482 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
