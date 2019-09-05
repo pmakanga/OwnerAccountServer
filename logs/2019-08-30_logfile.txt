@@ -1,0 +1,106 @@
+2019-08-30 10:39:00.9349 INFO Returned all owners from database.
+2019-08-30 10:41:43.4555 INFO Returned all owners from database.
+2019-08-30 10:41:54.4307 INFO Returned all owners from database.
+2019-08-30 10:42:12.3234 INFO Returned all owners from database.
+2019-08-30 10:43:11.0226 INFO Returned all owners from database.
+2019-08-30 10:43:28.7294 INFO $Retuned all accounts from the database.
+2019-08-30 10:43:45.2280 INFO Returned all owners from database.
+2019-08-30 10:44:07.6065 INFO Returned all owners from database.
+2019-08-30 10:45:07.0526 INFO Returned all owners from database.
+2019-08-30 10:46:53.2752 INFO $Retuned all accounts from the database.
+2019-08-30 10:46:57.7998 INFO Returned all owners from database.
+2019-08-30 10:46:59.8919 INFO $Retuned all accounts from the database.
+2019-08-30 10:47:01.7018 INFO Returned all owners from database.
+2019-08-30 10:47:04.3088 INFO $Retuned all accounts from the database.
+2019-08-30 10:47:07.4994 INFO Returned all owners from database.
+2019-08-30 10:47:09.7529 INFO $Retuned all accounts from the database.
+2019-08-30 10:47:11.4918 INFO Returned all owners from database.
+2019-08-30 10:47:27.1565 INFO Returned all owners from database.
+2019-08-30 12:44:35.1134 INFO Returned all owners from database.
+2019-08-30 12:44:43.7959 INFO Returned all owners from database.
+2019-08-30 12:56:18.0295 INFO $Retuened all accounts and their owners
+2019-08-30 12:57:17.6913 INFO Returned all owners from database.
+2019-08-30 12:57:24.8903 INFO $Retuened all accounts and their owners
+2019-08-30 12:57:30.0489 INFO Returned all owners from database.
+2019-08-30 12:57:31.7447 INFO $Retuened all accounts and their owners
+2019-08-30 14:07:12.1831 INFO $Retuened all accounts and their owners
+2019-08-30 14:07:16.6380 INFO $Retuened all accounts and their owners
+2019-08-30 14:07:21.1149 INFO $Retuened all accounts and their owners
+2019-08-30 14:31:56.6221 INFO $Retuened all accounts and their owners
+2019-08-30 14:32:03.0986 INFO $Retuened all accounts and their owners
+2019-08-30 14:32:07.5036 INFO Returned all owners from database.
+2019-08-30 14:36:05.5950 INFO Returned all owners from database.
+2019-08-30 14:36:17.8875 INFO Returned all owners from database.
+2019-08-30 16:33:11.6299 INFO Returned all owners from database.
+2019-08-30 16:33:17.3534 INFO $Retuened all accounts and their owners
+2019-08-30 16:33:58.5090 INFO $Retuened all accounts and their owners
+2019-08-30 16:34:47.3516 INFO $Retuened all accounts and their owners
+2019-08-30 16:35:33.1283 INFO $Retuened all accounts and their owners
+2019-08-30 16:36:23.5837 INFO $Retuened all accounts and their owners
+2019-08-30 16:37:00.5571 INFO $Retuened all accounts and their owners
+2019-08-30 16:37:26.1030 INFO $Retuened all accounts and their owners
+2019-08-30 16:37:33.2341 INFO $Retuened all accounts and their owners
+2019-08-30 16:38:02.4355 INFO $Retuened all accounts and their owners
+2019-08-30 16:38:16.9654 INFO $Retuened all accounts and their owners
+2019-08-30 16:39:07.7733 INFO $Retuened all accounts and their owners
+2019-08-30 16:39:51.2369 INFO $Retuened all accounts and their owners
+2019-08-30 16:40:01.5761 INFO $Retuened all accounts and their owners
+2019-08-30 16:40:06.1846 INFO $Retuened all accounts and their owners
+2019-08-30 16:40:11.9363 INFO $Retuened all accounts and their owners
+2019-08-30 16:40:32.1736 INFO Returned owners and Ids from database.
+2019-08-30 16:41:09.7809 INFO Returned owners and Ids from database.
+2019-08-30 16:41:18.5658 INFO Returned owners and Ids from database.
+2019-08-30 16:41:27.5678 INFO Returned owners and Ids from database.
+2019-08-30 16:41:44.3551 INFO Returned owners and Ids from database.
+2019-08-30 16:42:36.3590 INFO Returned owners and Ids from database.
+2019-08-30 16:43:15.8963 INFO Returned owners and Ids from database.
+2019-08-30 16:43:37.1186 INFO Returned owners and Ids from database.
+2019-08-30 16:45:14.7285 INFO Returned owners and Ids from database.
+2019-08-30 16:45:27.0970 INFO Returned owners and Ids from database.
+2019-08-30 16:45:37.1257 INFO Returned owners and Ids from database.
+2019-08-30 16:45:49.0837 INFO Returned owners and Ids from database.
+2019-08-30 16:46:02.0666 INFO Returned owners and Ids from database.
+2019-08-30 16:46:09.2579 INFO Returned owners and Ids from database.
+2019-08-30 16:47:53.2281 INFO Returned owners and Ids from database.
+2019-08-30 16:48:47.5604 INFO Returned owners and Ids from database.
+2019-08-30 16:49:21.0863 INFO Returned owners and Ids from database.
+2019-08-30 16:53:47.8853 INFO Returned owners and Ids from database.
+2019-08-30 16:54:01.0096 INFO Returned owners and Ids from database.
+2019-08-30 16:54:09.4491 INFO Returned owners and Ids from database.
+2019-08-30 16:55:17.3663 INFO Returned owners and Ids from database.
+2019-08-30 16:55:30.9102 INFO Returned owners and Ids from database.
+2019-08-30 16:55:38.7279 INFO Returned owners and Ids from database.
+2019-08-30 16:55:45.2228 INFO Returned owners and Ids from database.
+2019-08-30 16:55:57.2778 INFO Returned owners and Ids from database.
+2019-08-30 16:56:02.9725 INFO Returned owners and Ids from database.
+2019-08-30 16:56:13.6376 INFO Returned owners and Ids from database.
+2019-08-30 16:56:53.0492 INFO Returned owners and Ids from database.
+2019-08-30 16:56:55.3356 INFO Returned owners and Ids from database.
+2019-08-30 16:57:19.5151 INFO Returned owners and Ids from database.
+2019-08-30 16:57:32.7965 INFO Returned owners and Ids from database.
+2019-08-30 16:57:36.8316 INFO $Retuened all accounts and their owners
+2019-08-30 16:57:38.4209 INFO Returned owners and Ids from database.
+2019-08-30 16:57:59.5230 INFO Returned owners and Ids from database.
+2019-08-30 16:58:16.5060 INFO Returned owners and Ids from database.
+2019-08-30 16:58:34.2081 INFO Returned owners and Ids from database.
+2019-08-30 16:59:08.9125 INFO Returned owners and Ids from database.
+2019-08-30 16:59:14.9615 INFO Returned all owners from database.
+2019-08-30 16:59:38.3981 INFO Returned owner with id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-30 17:01:29.0178 INFO $Retuened all accounts and their owners
+2019-08-30 17:01:31.3263 INFO Returned owners and Ids from database.
+2019-08-30 17:02:03.6472 INFO Returned owners and Ids from database.
+2019-08-30 17:02:37.1845 INFO Returned owners and Ids from database.
+2019-08-30 17:03:04.3107 INFO Returned owners and Ids from database.
+2019-08-30 17:03:11.5943 INFO Returned owners and Ids from database.
+2019-08-30 17:03:37.6829 INFO Returned owners and Ids from database.
+2019-08-30 17:03:58.0618 INFO Returned owners and Ids from database.
+2019-08-30 17:05:20.6040 INFO Returned owners and Ids from database.
+2019-08-30 17:06:05.1192 INFO Returned owners and Ids from database.
+2019-08-30 17:06:12.2262 INFO Returned owners and Ids from database.
+2019-08-30 17:06:21.5270 INFO Returned owners and Ids from database.
+2019-08-30 17:15:51.4962 INFO Returned owners and Ids from database.
+2019-08-30 17:22:35.7596 INFO $Retuened all accounts and their owners
+2019-08-30 17:26:54.7386 INFO $Retuened all accounts and their owners
+2019-08-30 17:28:50.5592 INFO $Retuened all accounts and their owners
+2019-08-30 17:29:06.5185 INFO $Retuened all accounts and their owners
+2019-08-30 17:29:21.6079 INFO $Retuened all accounts and their owners

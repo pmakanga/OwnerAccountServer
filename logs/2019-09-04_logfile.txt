@@ -1,0 +1,196 @@
+2019-09-04 11:21:56.7201 INFO $Retuened all accounts and their owners
+2019-09-04 11:22:00.7498 INFO Returned owners and Ids from database.
+2019-09-04 11:31:08.8080 ERROR Account object sent from client is null
+2019-09-04 11:37:57.6389 INFO Returned all owners from database.
+2019-09-04 11:38:02.4666 INFO Returned all owners from database.
+2019-09-04 11:38:22.6447 INFO Returned all owners from database.
+2019-09-04 11:38:36.1621 INFO $Retuened all accounts and their owners
+2019-09-04 11:38:37.4365 INFO Returned owners and Ids from database.
+2019-09-04 11:51:49.3701 INFO $Retuened all accounts and their owners
+2019-09-04 11:51:51.1829 INFO Returned owners and Ids from database.
+2019-09-04 11:53:50.5017 INFO Returned owners and Ids from database.
+2019-09-04 11:54:21.8009 INFO Returned owners and Ids from database.
+2019-09-04 11:54:34.3131 INFO Returned owners and Ids from database.
+2019-09-04 11:54:44.7354 INFO Returned owners and Ids from database.
+2019-09-04 12:01:43.2098 INFO Returned owners and Ids from database.
+2019-09-04 12:02:00.8256 INFO $Retuened all accounts and their owners
+2019-09-04 12:02:05.1278 INFO Returned owners and Ids from database.
+2019-09-04 12:02:11.8805 INFO $Retuened all accounts and their owners
+2019-09-04 12:02:16.0074 INFO Returned owners and Ids from database.
+2019-09-04 12:02:41.6771 INFO $Retuened all accounts and their owners
+2019-09-04 12:02:58.8293 INFO $Retuened all accounts and their owners
+2019-09-04 12:03:04.0196 INFO $Retuened all accounts and their owners
+2019-09-04 12:03:12.7570 INFO $Retuened all accounts and their owners
+2019-09-04 12:03:16.8072 INFO Returned owners and Ids from database.
+2019-09-04 12:03:38.9476 ERROR Account object sent from client is null
+2019-09-04 12:03:40.3570 INFO $Retuened all accounts and their owners
+2019-09-04 12:04:07.3105 INFO $Retuned all accounts from the database.
+2019-09-04 12:35:33.2923 INFO $Retuened all accounts and their owners
+2019-09-04 12:35:47.7098 INFO $Retuened all accounts and their owners
+2019-09-04 12:35:56.2369 INFO $Retuened all accounts and their owners
+2019-09-04 12:36:20.1512 INFO $Retuened all accounts and their owners
+2019-09-04 12:36:28.6960 INFO $Retuened all accounts and their owners
+2019-09-04 12:37:04.5759 INFO $Retuened all accounts and their owners
+2019-09-04 12:37:16.1624 INFO $Retuened all accounts and their owners
+2019-09-04 12:37:22.9895 INFO $Retuened all accounts and their owners
+2019-09-04 12:38:41.2877 INFO $Retuened all accounts and their owners
+2019-09-04 12:38:48.7537 INFO $Retuened all accounts and their owners
+2019-09-04 12:39:11.8565 INFO $Retuened all accounts and their owners
+2019-09-04 12:39:29.0577 INFO $Retuened all accounts and their owners
+2019-09-04 12:39:42.3602 INFO $Retuened all accounts and their owners
+2019-09-04 12:39:47.9350 INFO $Retuened all accounts and their owners
+2019-09-04 12:39:57.3610 INFO $Retuened all accounts and their owners
+2019-09-04 12:40:09.2836 INFO $Retuened all accounts and their owners
+2019-09-04 12:40:48.0618 INFO $Retuened all accounts and their owners
+2019-09-04 12:41:12.1064 INFO $Retuened all accounts and their owners
+2019-09-04 12:41:19.5382 INFO $Retuened all accounts and their owners
+2019-09-04 12:41:21.3680 INFO Returned owners and Ids from database.
+2019-09-04 12:42:05.1190 INFO Returned owners and Ids from database.
+2019-09-04 12:43:38.8568 INFO $Retuened all accounts and their owners
+2019-09-04 12:43:40.5686 INFO Returned owners and Ids from database.
+2019-09-04 12:44:36.9716 INFO Returned owners and Ids from database.
+2019-09-04 12:45:11.0518 INFO Returned owners and Ids from database.
+2019-09-04 12:45:37.1677 INFO Returned owners and Ids from database.
+2019-09-04 12:45:58.9991 INFO Returned owners and Ids from database.
+2019-09-04 12:46:03.7432 INFO Returned owners and Ids from database.
+2019-09-04 12:48:17.8860 ERROR Something went wrong inside CreateAccount action: An error occurred while updating the entries. See the inner exception for details.
+2019-09-04 12:48:18.1229 INFO $Retuened all accounts and their owners
+2019-09-04 12:48:22.7837 INFO Returned owners and Ids from database.
+2019-09-04 12:52:46.3813 INFO Returned owners and Ids from database.
+2019-09-04 12:55:45.7423 INFO Returned owners and Ids from database.
+2019-09-04 12:58:25.8548 INFO Returned owners and Ids from database.
+2019-09-04 14:06:41.4266 INFO $Retuened all accounts and their owners
+2019-09-04 14:06:52.8489 INFO Returned owners and Ids from database.
+2019-09-04 14:23:36.1198 INFO $Retuened all accounts and their owners
+2019-09-04 14:23:39.6249 INFO Returned owners and Ids from database.
+2019-09-04 15:13:40.4510 INFO $Retuened all accounts and their owners
+2019-09-04 15:13:45.4191 INFO Returned owners and Ids from database.
+2019-09-04 15:14:05.9432 INFO Returned owners and Ids from database.
+2019-09-04 15:14:08.4993 INFO $Retuened all accounts and their owners
+2019-09-04 15:14:10.2313 INFO Returned owners and Ids from database.
+2019-09-04 15:15:09.3863 INFO Returned owners and Ids from database.
+2019-09-04 15:15:37.3950 INFO Returned owners and Ids from database.
+2019-09-04 15:15:49.6887 INFO Returned owners and Ids from database.
+2019-09-04 15:16:08.4851 INFO Returned owners and Ids from database.
+2019-09-04 15:16:31.5467 INFO Returned owners and Ids from database.
+2019-09-04 15:16:44.0072 INFO Returned owners and Ids from database.
+2019-09-04 15:19:31.6535 INFO Returned owners and Ids from database.
+2019-09-04 15:20:20.5786 INFO Returned owners and Ids from database.
+2019-09-04 15:20:37.0833 INFO Returned owners and Ids from database.
+2019-09-04 15:21:02.8990 INFO Returned owners and Ids from database.
+2019-09-04 15:21:43.7288 INFO Returned owners and Ids from database.
+2019-09-04 15:21:50.1651 INFO Returned owners and Ids from database.
+2019-09-04 15:22:24.0824 INFO Returned owners and Ids from database.
+2019-09-04 15:22:25.6643 INFO $Retuened all accounts and their owners
+2019-09-04 15:22:27.4159 INFO Returned owners and Ids from database.
+2019-09-04 15:22:41.1456 INFO Returned owners and Ids from database.
+2019-09-04 15:22:42.8347 INFO $Retuened all accounts and their owners
+2019-09-04 15:22:44.5195 INFO Returned owners and Ids from database.
+2019-09-04 15:23:11.9461 INFO $Retuened all accounts and their owners
+2019-09-04 15:23:14.0771 INFO Returned owners and Ids from database.
+2019-09-04 15:23:40.9034 INFO Returned all owners from database.
+2019-09-04 15:23:50.2025 INFO $Retuened all accounts and their owners
+2019-09-04 15:27:04.8373 INFO Returned owners and Ids from database.
+2019-09-04 15:30:37.1903 INFO Returned all owners from database.
+2019-09-04 15:30:38.4308 INFO $Retuened all accounts and their owners
+2019-09-04 15:30:40.4900 INFO Returned all owners from database.
+2019-09-04 15:31:24.8910 INFO Returned all owners from database.
+2019-09-04 15:31:43.7999 INFO Returned owner with id: 525727fe-2535-4c00-90d1-15b3592d3b1b
+2019-09-04 15:31:47.8094 INFO Returned all owners from database.
+2019-09-04 15:32:05.4232 INFO $Retuened all accounts and their owners
+2019-09-04 15:32:06.7620 INFO Returned owners and Ids from database.
+2019-09-04 15:36:07.1903 INFO Returned owners and Ids from database.
+2019-09-04 15:36:20.5750 INFO Returned owners and Ids from database.
+2019-09-04 15:36:27.0594 INFO Returned owners and Ids from database.
+2019-09-04 15:36:34.3908 INFO Returned owners and Ids from database.
+2019-09-04 15:37:02.5395 INFO Returned owners and Ids from database.
+2019-09-04 15:37:03.5105 INFO $Retuened all accounts and their owners
+2019-09-04 15:37:05.1412 INFO Returned owners and Ids from database.
+2019-09-04 15:37:07.1728 INFO $Retuened all accounts and their owners
+2019-09-04 15:37:08.7039 INFO Returned owners and Ids from database.
+2019-09-04 15:37:19.2002 INFO $Retuened all accounts and their owners
+2019-09-04 15:37:20.4546 INFO Returned owners and Ids from database.
+2019-09-04 15:38:23.0104 INFO $Retuened all accounts and their owners
+2019-09-04 15:38:25.1068 INFO Returned owners and Ids from database.
+2019-09-04 15:39:43.3472 INFO Returned owners and Ids from database.
+2019-09-04 15:40:08.9201 INFO Returned owners and Ids from database.
+2019-09-04 15:40:41.8202 INFO Returned owners and Ids from database.
+2019-09-04 15:40:53.3221 INFO Returned owners and Ids from database.
+2019-09-04 15:41:06.1353 INFO Returned owners and Ids from database.
+2019-09-04 15:42:05.7682 INFO Returned owners and Ids from database.
+2019-09-04 15:43:02.8213 INFO Returned owners and Ids from database.
+2019-09-04 15:43:09.8674 INFO Returned owners and Ids from database.
+2019-09-04 15:43:23.6801 INFO Returned owners and Ids from database.
+2019-09-04 15:43:31.6635 INFO Returned owners and Ids from database.
+2019-09-04 15:43:41.8481 INFO Returned owners and Ids from database.
+2019-09-04 15:43:51.1704 INFO Returned owners and Ids from database.
+2019-09-04 15:44:03.1956 INFO Returned owners and Ids from database.
+2019-09-04 15:44:31.1371 INFO Returned owners and Ids from database.
+2019-09-04 15:45:01.2033 INFO Returned owners and Ids from database.
+2019-09-04 15:45:05.7235 INFO Returned owners and Ids from database.
+2019-09-04 15:45:13.4558 INFO Returned owners and Ids from database.
+2019-09-04 15:45:16.2343 INFO $Retuened all accounts and their owners
+2019-09-04 15:45:19.3923 INFO Returned owners and Ids from database.
+2019-09-04 15:45:38.5423 INFO Returned owners and Ids from database.
+2019-09-04 15:45:39.8541 INFO $Retuened all accounts and their owners
+2019-09-04 15:45:41.0152 INFO Returned owners and Ids from database.
+2019-09-04 15:46:17.7433 INFO Returned owners and Ids from database.
+2019-09-04 15:46:43.5179 INFO Returned owners and Ids from database.
+2019-09-04 15:47:05.0907 INFO Returned owners and Ids from database.
+2019-09-04 15:47:23.9550 INFO Returned owners and Ids from database.
+2019-09-04 15:47:49.2508 INFO $Retuened all accounts and their owners
+2019-09-04 15:48:04.7254 INFO $Retuened all accounts and their owners
+2019-09-04 15:48:11.7586 INFO $Retuened all accounts and their owners
+2019-09-04 15:48:21.3975 INFO $Retuened all accounts and their owners
+2019-09-04 15:48:30.2752 INFO $Retuened all accounts and their owners
+2019-09-04 15:49:46.0549 INFO $Retuened all accounts and their owners
+2019-09-04 15:50:55.1083 INFO $Retuened all accounts and their owners
+2019-09-04 15:51:40.2038 INFO $Retuened all accounts and their owners
+2019-09-04 15:52:37.0642 INFO $Retuened all accounts and their owners
+2019-09-04 15:52:37.3250 INFO Returned owners and Ids from database.
+2019-09-04 15:52:41.4361 INFO $Retuened all accounts and their owners
+2019-09-04 15:52:43.2005 INFO Returned owners and Ids from database.
+2019-09-04 15:53:04.2236 INFO Returned owners and Ids from database.
+2019-09-04 15:57:35.3829 INFO $Retuened all accounts and their owners
+2019-09-04 15:57:36.6382 INFO Returned owners and Ids from database.
+2019-09-04 15:57:39.7326 INFO $Retuened all accounts and their owners
+2019-09-04 15:57:41.3820 INFO Returned owners and Ids from database.
+2019-09-04 15:57:51.3164 INFO Returned all owners from database.
+2019-09-04 15:58:08.0480 INFO Returned all owners from database.
+2019-09-04 15:58:52.4745 INFO Returned owner with id: 680c11f1-93c7-4671-a365-d8b01d210e70
+2019-09-04 15:58:56.1420 INFO Returned all owners from database.
+2019-09-04 15:59:00.5979 INFO Returned all owners from database.
+2019-09-04 15:59:02.4908 INFO $Retuened all accounts and their owners
+2019-09-04 15:59:06.6001 INFO $Retuened all accounts and their owners
+2019-09-04 15:59:09.7357 INFO $Retuened all accounts and their owners
+2019-09-04 15:59:13.0992 INFO $Retuened all accounts and their owners
+2019-09-04 15:59:21.3414 INFO Returned all owners from database.
+2019-09-04 16:01:19.5652 INFO $Retuened all accounts and their owners
+2019-09-04 16:01:21.3046 INFO Returned owners and Ids from database.
+2019-09-04 16:01:23.2347 INFO $Retuened all accounts and their owners
+2019-09-04 16:01:24.7062 INFO Returned owners and Ids from database.
+2019-09-04 16:02:09.9187 INFO Returned owners and Ids from database.
+2019-09-04 16:02:15.2255 INFO Returned owners and Ids from database.
+2019-09-04 16:02:26.2349 INFO Returned owners and Ids from database.
+2019-09-04 16:02:31.6292 INFO Returned owners and Ids from database.
+2019-09-04 16:02:45.6742 INFO Returned owners and Ids from database.
+2019-09-04 16:02:54.6917 INFO Returned owners and Ids from database.
+2019-09-04 16:03:02.1773 INFO Returned owners and Ids from database.
+2019-09-04 16:03:12.0438 INFO Returned owners and Ids from database.
+2019-09-04 16:03:24.6833 INFO Returned owners and Ids from database.
+2019-09-04 16:03:32.3259 INFO Returned owners and Ids from database.
+2019-09-04 16:03:38.1554 INFO Returned owners and Ids from database.
+2019-09-04 16:04:01.8887 INFO Returned owners and Ids from database.
+2019-09-04 16:05:06.9298 INFO Returned owners and Ids from database.
+2019-09-04 16:05:14.7255 INFO Returned owners and Ids from database.
+2019-09-04 16:08:04.6527 INFO Returned owners and Ids from database.
+2019-09-04 16:08:16.1184 INFO Returned owners and Ids from database.
+2019-09-04 16:08:29.9176 INFO Returned owners and Ids from database.
+2019-09-04 16:09:21.4012 INFO $Retuened all accounts and their owners
+2019-09-04 16:33:27.5184 INFO $Retuened all accounts and their owners
+2019-09-04 16:33:29.0717 INFO Returned owners and Ids from database.
+2019-09-04 17:11:10.2471 INFO Returned owners and Ids from database.
+2019-09-04 17:30:03.0815 INFO $Retuened all accounts and their owners
+2019-09-04 17:30:09.0471 ERROR Something went wrong inside CreateAccount action: An error occurred while updating the entries. See the inner exception for details.
+2019-09-04 17:30:10.8863 INFO Returned owners and Ids from database.
+2019-09-04 17:31:42.1305 INFO Returned owners and Ids from database.

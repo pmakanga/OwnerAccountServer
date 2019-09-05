@@ -1,0 +1,120 @@
+2019-08-28 08:16:08.8787 INFO Returned all owners from database.
+2019-08-28 08:16:12.8644 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-28 08:16:15.6660 INFO Returned all owners from database.
+2019-08-28 08:16:17.3740 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-28 08:16:20.3488 INFO Returned all owners from database.
+2019-08-28 08:16:23.0302 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-28 08:16:28.6871 INFO Returned all owners from database.
+2019-08-28 08:16:57.0772 INFO Returned owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-08-28 08:16:58.6960 INFO Returned all owners from database.
+2019-08-28 08:17:34.8791 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-28 08:17:37.6248 INFO Returned all owners from database.
+2019-08-28 08:17:41.6719 INFO Returned all owners from database.
+2019-08-28 08:17:54.0450 INFO Returned all owners from database.
+2019-08-28 08:17:56.9210 INFO Returned all owners from database.
+2019-08-28 08:18:02.9393 INFO Returned all owners from database.
+2019-08-28 08:19:05.0621 INFO Returned all owners from database.
+2019-08-28 08:19:24.2643 INFO Returned all owners from database.
+2019-08-28 08:29:12.6297 INFO Returned all owners from database.
+2019-08-28 08:29:18.1948 INFO Returned all owners from database.
+2019-08-28 08:29:21.0521 INFO Returned all owners from database.
+2019-08-28 09:26:00.6564 INFO Returned all owners from database.
+2019-08-28 09:27:08.7147 INFO Returned all owners from database.
+2019-08-28 09:27:12.5651 INFO $Retuned all accounts from the database.
+2019-08-28 09:27:21.2595 INFO $Retuned all accounts from the database.
+2019-08-28 09:30:16.9299 INFO $Retuned all accounts from the database.
+2019-08-28 09:30:29.6957 INFO $Retuned all accounts from the database.
+2019-08-28 09:30:40.0741 INFO $Retuned all accounts from the database.
+2019-08-28 09:30:48.7509 INFO $Retuned all accounts from the database.
+2019-08-28 09:31:57.8091 INFO $Retuned all accounts from the database.
+2019-08-28 09:33:48.7124 INFO $Retuned all accounts from the database.
+2019-08-28 09:33:54.2913 INFO $Retuned all accounts from the database.
+2019-08-28 09:34:15.6269 INFO $Retuned all accounts from the database.
+2019-08-28 09:34:19.6851 INFO $Retuned all accounts from the database.
+2019-08-28 09:34:31.2457 INFO $Retuned all accounts from the database.
+2019-08-28 09:34:35.8120 INFO $Retuned all accounts from the database.
+2019-08-28 09:34:41.7693 INFO $Retuned all accounts from the database.
+2019-08-28 09:34:48.9191 INFO $Retuned all accounts from the database.
+2019-08-28 09:34:54.1113 INFO $Retuned all accounts from the database.
+2019-08-28 09:35:16.8849 INFO $Retuned all accounts from the database.
+2019-08-28 09:35:41.7295 INFO $Retuned all accounts from the database.
+2019-08-28 09:41:55.8845 INFO $Retuned all accounts from the database.
+2019-08-28 09:45:04.1258 INFO $Retuned all accounts from the database.
+2019-08-28 09:45:16.4178 INFO $Retuned all accounts from the database.
+2019-08-28 09:46:35.1552 INFO $Retuned all accounts from the database.
+2019-08-28 09:46:45.6843 INFO $Retuned all accounts from the database.
+2019-08-28 09:47:04.3386 INFO $Retuned all accounts from the database.
+2019-08-28 09:47:24.0466 INFO $Retuned all accounts from the database.
+2019-08-28 09:47:49.8991 INFO $Retuned all accounts from the database.
+2019-08-28 09:50:07.9569 INFO $Retuned all accounts from the database.
+2019-08-28 09:50:14.3792 INFO $Retuned all accounts from the database.
+2019-08-28 09:50:26.9448 INFO $Retuned all accounts from the database.
+2019-08-28 09:50:39.1581 INFO $Retuned all accounts from the database.
+2019-08-28 09:50:46.3459 INFO $Retuned all accounts from the database.
+2019-08-28 09:50:54.7051 INFO $Retuned all accounts from the database.
+2019-08-28 09:51:05.8833 INFO $Retuned all accounts from the database.
+2019-08-28 09:51:16.2482 INFO $Retuned all accounts from the database.
+2019-08-28 09:51:24.0201 INFO $Retuned all accounts from the database.
+2019-08-28 09:51:42.2535 INFO $Retuned all accounts from the database.
+2019-08-28 09:52:04.8667 INFO $Retuned all accounts from the database.
+2019-08-28 09:53:01.0748 INFO $Retuned all accounts from the database.
+2019-08-28 09:53:11.6382 INFO $Retuned all accounts from the database.
+2019-08-28 09:53:20.3543 INFO $Retuned all accounts from the database.
+2019-08-28 09:53:25.6821 INFO $Retuned all accounts from the database.
+2019-08-28 09:54:21.3245 INFO $Retuned all accounts from the database.
+2019-08-28 09:55:41.6104 INFO $Retuned all accounts from the database.
+2019-08-28 09:58:50.7898 INFO $Retuned all accounts from the database.
+2019-08-28 09:59:06.2524 INFO $Retuned all accounts from the database.
+2019-08-28 09:59:17.6326 INFO $Retuned all accounts from the database.
+2019-08-28 10:06:53.3097 INFO $Retuned all accounts from the database.
+2019-08-28 10:07:06.4389 INFO Returned all owners from database.
+2019-08-28 10:07:08.5198 INFO $Retuned all accounts from the database.
+2019-08-28 10:07:12.1984 INFO Returned all owners from database.
+2019-08-28 10:07:13.4959 INFO $Retuned all accounts from the database.
+2019-08-28 10:07:17.0544 INFO $Retuned all accounts from the database.
+2019-08-28 10:09:04.7905 INFO $Retuned all accounts from the database.
+2019-08-28 10:09:30.2624 INFO Returned all owners from database.
+2019-08-28 10:09:34.3141 INFO $Retuned all accounts from the database.
+2019-08-28 10:09:36.5623 INFO Returned all owners from database.
+2019-08-28 10:09:38.9460 INFO $Retuned all accounts from the database.
+2019-08-28 10:09:41.7134 INFO Returned all owners from database.
+2019-08-28 10:09:44.3693 INFO $Retuned all accounts from the database.
+2019-08-28 10:09:46.0399 INFO Returned all owners from database.
+2019-08-28 10:11:07.4036 INFO Returned all owners from database.
+2019-08-28 10:11:21.7321 INFO Returned all owners from database.
+2019-08-28 10:11:24.2273 INFO Returned all owners from database.
+2019-08-28 10:12:04.1802 INFO $Retuned all accounts from the database.
+2019-08-28 10:12:11.5958 INFO $Retuned all accounts from the database.
+2019-08-28 10:12:15.2703 INFO $Retuned all accounts from the database.
+2019-08-28 10:12:18.5392 INFO Returned all owners from database.
+2019-08-28 10:12:36.0284 INFO Returned all owners from database.
+2019-08-28 10:12:42.4447 INFO Returned all owners from database.
+2019-08-28 10:12:47.0368 INFO Returned all owners from database.
+2019-08-28 10:12:59.3743 INFO $Retuned all accounts from the database.
+2019-08-28 10:13:07.9603 INFO Returned all owners from database.
+2019-08-28 10:13:14.4284 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-28 10:13:23.3532 INFO Returned all owners from database.
+2019-08-28 10:13:45.1053 INFO Returned owner with id: 5aef7bd4-b45c-4125-85ee-4c391d464f24
+2019-08-28 10:14:14.6306 INFO Returned all owners from database.
+2019-08-28 10:14:30.6091 INFO $Retuned all accounts from the database.
+2019-08-28 10:15:35.5657 INFO $Retuned all accounts from the database.
+2019-08-28 10:18:36.8260 INFO $Retuned all accounts from the database.
+2019-08-28 10:19:07.6950 INFO $Retuned all accounts from the database.
+2019-08-28 11:24:17.7075 INFO Returned account with id: a3fbad0b-7f48-4feb-8ac0-6d3bbc997bfc
+2019-08-28 11:26:16.5950 ERROR Account with id: a3c1880c-674c-4d18-8f91-5d3608a2c937 hasn't been found in the db
+2019-08-28 11:26:43.4170 ERROR Something went wrong inside GetOwnerById action: Unknown column 'owner.AccountId' in 'field list'
+2019-08-28 11:28:49.1763 ERROR Account with id: a3c1880c-674c-4d18-8f91-5d3608a2c937 hasn't been found in the db
+2019-08-28 15:18:22.1194 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-08-28 15:19:00.2881 INFO $Retuned all accounts from the database.
+2019-08-28 15:21:50.0339 INFO $Retuned all accounts from the database.
+2019-08-28 15:22:43.0942 ERROR Something went wrong inside GetAllOwners action: Unknown column 'ow.AccountId' in 'field list'
+2019-08-28 15:22:51.2056 INFO $Retuned all accounts from the database.
+2019-08-28 15:22:55.5275 ERROR Something went wrong inside GetAllOwners action: Unknown column 'ow.AccountId' in 'field list'
+2019-08-28 15:35:02.5692 ERROR Something went wrong inside GetAllOwners action: Unknown column 'ow.AccountId' in 'field list'
+2019-08-28 15:35:22.0130 INFO $Retuned all accounts from the database.
+2019-08-28 15:36:20.3279 INFO $Retuned all accounts from the database.
+2019-08-28 15:39:27.0689 INFO Returned all owners from database.
+2019-08-28 15:40:09.7516 INFO Returned all owners from database.
+2019-08-28 17:00:25.4375 INFO $Retuned all accounts from the database.
+2019-08-28 17:00:39.2424 INFO Returned all owners from database.
+2019-08-28 17:00:43.3153 INFO $Retuned all accounts from the database.

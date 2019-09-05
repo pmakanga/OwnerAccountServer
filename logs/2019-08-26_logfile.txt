@@ -1,0 +1,95 @@
+2019-08-26 10:00:15.1427 INFO Returned all owners from database.
+2019-08-26 10:03:07.5086 INFO Returned all owners from database.
+2019-08-26 10:04:33.5871 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-26 10:23:15.3084 INFO Returned all owners from database.
+2019-08-26 10:23:22.5468 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-26 10:49:46.0198 INFO Returned all owners from database.
+2019-08-26 10:50:20.3387 INFO Returned all owners from database.
+2019-08-26 10:50:33.5284 INFO Returned all owners from database.
+2019-08-26 10:55:40.5628 INFO Returned all owners from database.
+2019-08-26 10:55:46.5000 INFO Returned all owners from database.
+2019-08-26 10:58:32.0988 INFO Returned all owners from database.
+2019-08-26 10:58:42.7580 INFO Returned all owners from database.
+2019-08-26 11:00:06.7886 INFO Returned all owners from database.
+2019-08-26 11:00:14.6989 INFO Returned all owners from database.
+2019-08-26 11:01:14.9860 INFO Returned all owners from database.
+2019-08-26 11:01:27.1666 INFO Returned all owners from database.
+2019-08-26 11:01:32.1556 INFO Returned all owners from database.
+2019-08-26 11:02:56.5178 INFO Returned all owners from database.
+2019-08-26 12:07:20.7533 INFO Returned all owners from database.
+2019-08-26 12:10:38.8175 INFO Returned all owners from database.
+2019-08-26 12:10:58.4265 INFO Returned all owners from database.
+2019-08-26 12:12:17.8282 INFO Returned all owners from database.
+2019-08-26 12:14:11.2511 INFO Returned all owners from database.
+2019-08-26 12:14:16.5937 INFO Returned all owners from database.
+2019-08-26 12:14:44.7273 INFO Returned all owners from database.
+2019-08-26 12:17:10.2679 INFO Returned all owners from database.
+2019-08-26 12:17:29.3163 INFO Returned owner with details for id: af28dc3f-cb6c-4478-9eb3-edb631ea7f9f
+2019-08-26 12:17:47.5788 INFO Returned all owners from database.
+2019-08-26 12:56:40.7154 INFO Returned all owners from database.
+2019-08-26 14:17:49.9677 INFO Returned all owners from database.
+2019-08-26 15:04:16.0581 INFO Returned all owners from database.
+2019-08-26 15:07:59.1170 INFO Returned all owners from database.
+2019-08-26 15:08:08.8543 INFO Returned all owners from database.
+2019-08-26 15:09:10.4427 INFO Returned all owners from database.
+2019-08-26 15:11:30.2190 INFO Returned all owners from database.
+2019-08-26 15:14:45.4445 INFO Returned all owners from database.
+2019-08-26 15:14:55.9796 INFO Returned all owners from database.
+2019-08-26 15:16:47.8859 INFO Returned all owners from database.
+2019-08-26 15:16:50.9081 INFO Returned all owners from database.
+2019-08-26 15:42:31.3247 INFO Returned all owners from database.
+2019-08-26 15:48:55.2379 INFO Returned all owners from database.
+2019-08-26 15:54:17.8023 INFO Returned all owners from database.
+2019-08-26 16:28:18.6808 INFO Returned all owners from database.
+2019-08-26 16:28:40.9280 INFO Returned all owners from database.
+2019-08-26 16:29:35.2006 INFO Returned all owners from database.
+2019-08-26 16:35:19.6953 INFO Returned all owners from database.
+2019-08-26 16:35:24.0675 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-26 16:35:32.5382 INFO Returned all owners from database.
+2019-08-26 16:42:41.0711 INFO Returned all owners from database.
+2019-08-26 16:42:47.4117 INFO Returned owner with id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-26 16:42:50.9586 INFO Returned all owners from database.
+2019-08-26 16:42:52.7675 INFO Returned owner with id: 81d60e0d-5eeb-4c28-9276-51a6ae98bc08
+2019-08-26 16:42:54.2746 INFO Returned all owners from database.
+2019-08-26 16:42:57.2343 INFO Returned all owners from database.
+2019-08-26 16:43:02.6987 INFO Returned owner with id: 81d60e0d-5eeb-4c28-9276-51a6ae98bc08
+2019-08-26 16:43:15.3287 INFO Returned all owners from database.
+2019-08-26 16:43:17.1855 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-26 16:43:21.5133 INFO Returned all owners from database.
+2019-08-26 16:43:24.5659 INFO Returned owner with id: ab8667af-c255-43e6-aba4-77412afc914e
+2019-08-26 16:43:28.9505 INFO Returned all owners from database.
+2019-08-26 16:48:41.3333 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-26 16:48:43.2759 INFO Returned all owners from database.
+2019-08-26 16:54:31.8158 INFO Returned all owners from database.
+2019-08-26 16:54:42.6754 INFO Returned all owners from database.
+2019-08-26 16:54:46.6843 INFO Returned all owners from database.
+2019-08-26 16:55:33.7596 INFO Returned all owners from database.
+2019-08-26 16:56:48.9091 INFO Returned all owners from database.
+2019-08-26 16:59:46.6791 INFO Returned all owners from database.
+2019-08-26 16:59:59.3865 INFO Returned all owners from database.
+2019-08-26 17:00:11.6383 INFO Returned all owners from database.
+2019-08-26 17:00:23.6009 INFO Returned all owners from database.
+2019-08-26 17:00:45.7197 INFO Returned all owners from database.
+2019-08-26 17:00:58.9874 INFO Returned all owners from database.
+2019-08-26 17:01:11.3735 INFO Returned all owners from database.
+2019-08-26 17:01:55.4265 INFO Returned all owners from database.
+2019-08-26 17:21:16.3372 INFO Returned all owners from database.
+2019-08-26 17:21:39.8999 INFO Returned all owners from database.
+2019-08-26 17:21:47.2496 INFO Returned all owners from database.
+2019-08-26 17:23:46.5721 INFO Returned all owners from database.
+2019-08-26 17:29:01.4047 INFO Returned all owners from database.
+2019-08-26 17:35:05.5281 INFO Returned all owners from database.
+2019-08-26 17:35:14.9266 INFO Returned all owners from database.
+2019-08-26 17:35:23.2455 INFO Returned all owners from database.
+2019-08-26 17:35:27.2898 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-26 17:48:27.3776 INFO Returned all owners from database.
+2019-08-26 17:48:41.0355 INFO Returned all owners from database.
+2019-08-26 17:48:44.6949 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-26 17:48:45.8755 INFO Returned all owners from database.
+2019-08-26 17:49:43.3440 INFO Returned all owners from database.
+2019-08-26 17:49:45.2354 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-08-26 17:49:47.2610 INFO Returned all owners from database.
+2019-08-26 17:49:58.6983 INFO Returned all owners from database.
+2019-08-26 17:50:04.7312 INFO Returned all owners from database.
+2019-08-26 17:50:26.3146 INFO Returned all owners from database.
+2019-08-26 17:50:30.3268 INFO Returned all owners from database.

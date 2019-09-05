@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Contracts;
 using Entities.Extensions;
+using Entities.Models;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -63,5 +64,53 @@ namespace AccountOwnerServer.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
+        [HttpGet("owner")]
+        public IActionResult GetAccountWithOwner()
+        {
+            try
+            {
+                var account = _repository.Account.GetAccountsWithOwners();
+                _logger.LogInfo("$Retuened all accounts and their owners");
+                return Ok(account);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogInfo("$Something went wrong inside GetAllAccountsWithOwners");
+                return StatusCode(500, "Internal Server error");
+            }
+        }
+
+        [HttpPost(Name ="ByAccountId")]
+        public IActionResult CreateAccount([FromBody]Account account)
+        {
+            try
+            {
+                if (account.IsObjectNull())
+                {
+                    _logger.LogError("Account object sent from client is null");
+                    return BadRequest("Owner Object in Null!");
+                }
+
+                if (!ModelState.IsValid)
+                {
+                    _logger.LogError("Invalid Accont object sent from client.");
+                    return BadRequest("Invalid model object");
+                }
+
+                _repository.Account.CreateAccount(account);
+                _repository.Save();
+
+                return CreatedAtRoute("ByAccountId", new { account.Id }, account);
+            }
+            catch (Exception ex)
+            {
+
+                _logger.LogError($"Something went wrong inside CreateAccount action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
+
+
     }
 }

@@ -56,5 +56,16 @@ namespace Repository
         {
             Delete(owner);
         }
+
+        public IEnumerable<OwnerList> GetOwnerList()
+        {
+            return (from o in RepositoryContext.Owners
+                    .OrderBy(n => n.Name)
+                    select new OwnerList
+                    {
+                        OwnerId = o.Id,
+                        OwnerName = o.Name
+                    }).ToList();
+        }
     }
 }

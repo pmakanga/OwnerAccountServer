@@ -1,6 +1,7 @@
 ﻿using Contracts;
 using Entities;
 using Entities.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,8 +24,10 @@ namespace Repository
         public IEnumerable<Account> GetAllAccounts()
         {
             return FindAll()
+                //.Include(o => o.Owners)
                 .OrderBy(a => a.AccountType)
                 .ToList();
+            
                 
         }
 
@@ -33,6 +36,28 @@ namespace Repository
             return FindByCondition(account => account.Id.Equals(accountId))
                 .DefaultIfEmpty(new Account())
                 .FirstOrDefault();
+        }
+
+        public IEnumerable<OwnerAccount> GetAccountsWithOwners()
+        {
+            return (from o in RepositoryContext.Owners
+                    from a in RepositoryContext.Accounts
+                    where o.Id == a.OwnerId
+                    select new OwnerAccount
+                    {
+                        OwnerId = o.Id,
+                        Owner = o.Name,
+                        AccountId = a.Id,
+                        AccountType = a.AccountType,
+                        DateCreated = a.DateCreated
+                    }).ToList();
+        }
+
+        public void CreateAccount(Account account)
+        {
+            account.Id = Guid.NewGuid();
+            Create(account);
+            
         }
     }
 }

@@ -31,7 +31,7 @@ namespace AccountOwnerServer.Controllers
             {
                 var owners = _repository.Owner.GetAllOwners();
                 _logger.LogInfo($"Returned all owners from database.");
-                return Ok(owners);
+                 return Ok(owners);
             }
             catch (Exception ex)
             {
@@ -189,6 +189,22 @@ namespace AccountOwnerServer.Controllers
             {
                 _logger.LogError($"Something went wrong inside DeleteOwner action: {ex.Message}");
                 return StatusCode(500, "Internal server error");
+            }
+        }
+
+        [HttpGet("list")]
+        public IActionResult GetOwnerList()
+        {
+            try
+            {
+                var ownerList = _repository.Owner.GetOwnerList();
+                _logger.LogInfo($"Returned owners and Ids from database.");
+                return Ok(ownerList);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Something went wrong inside GetOwnerList action: {ex.Message}");
+                return StatusCode(500, "Internal Server error");
             }
         }
 

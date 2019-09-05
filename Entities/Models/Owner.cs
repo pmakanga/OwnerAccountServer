@@ -23,5 +23,7 @@ namespace Entities.Models
         [Required(ErrorMessage = "Address is required")]
         [StringLength(100, ErrorMessage = "Address cannot be loner then 100 characters")]
         public string Address { get; set; }
+
+        public virtual ICollection<Account> Accounts { get; set; }
     }
 }

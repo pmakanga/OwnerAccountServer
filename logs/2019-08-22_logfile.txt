@@ -1,0 +1,11 @@
+2019-08-22 15:05:53.2024 INFO Returned all owners from database.
+2019-08-22 15:05:57.5639 INFO Returned owner with details for id: e40113d8-3383-4dea-8485-913a9070c431
+2019-08-22 15:06:01.0069 INFO Returned all owners from database.
+2019-08-22 15:06:03.9045 INFO Returned owner with id: e40113d8-3383-4dea-8485-913a9070c431
+2019-08-22 15:06:06.5203 INFO Returned all owners from database.
+2019-08-22 15:06:08.9787 INFO Returned owner with id: 04bab7db-c544-4250-97fa-84eb03d728c2
+2019-08-22 15:06:12.1604 INFO Returned all owners from database.
+2019-08-22 15:06:16.6643 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-22 15:06:27.5571 INFO Returned all owners from database.
+2019-08-22 15:06:31.4220 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-08-22 15:06:35.9112 INFO Returned all owners from database.

@@ -1,0 +1,84 @@
+2019-08-20 13:02:08.8511 INFO Returned all owners from database.
+2019-08-20 14:08:57.0827 INFO Returned all owners from database.
+2019-08-20 14:09:01.8526 INFO Returned all owners from database.
+2019-08-20 14:10:37.3380 INFO Returned all owners from database.
+2019-08-20 14:15:54.7749 INFO Returned all owners from database.
+2019-08-20 14:31:06.3541 INFO Returned all owners from database.
+2019-08-20 14:31:32.0664 INFO Returned all owners from database.
+2019-08-20 14:31:36.8650 INFO Returned all owners from database.
+2019-08-20 14:31:51.2322 INFO Returned all owners from database.
+2019-08-20 14:32:16.9366 INFO Returned all owners from database.
+2019-08-20 14:32:23.9546 INFO Returned all owners from database.
+2019-08-20 14:34:43.5315 INFO Returned all owners from database.
+2019-08-20 14:38:00.1602 INFO Returned all owners from database.
+2019-08-20 14:39:08.8287 INFO Returned all owners from database.
+2019-08-20 14:40:33.6661 INFO Returned all owners from database.
+2019-08-20 14:40:40.4500 INFO Returned all owners from database.
+2019-08-20 14:41:03.6595 INFO Returned all owners from database.
+2019-08-20 14:41:15.4470 INFO Returned all owners from database.
+2019-08-20 14:41:52.8607 INFO Returned all owners from database.
+2019-08-20 14:42:05.9701 INFO Returned all owners from database.
+2019-08-20 14:42:12.1921 INFO Returned all owners from database.
+2019-08-20 14:42:18.3699 INFO Returned all owners from database.
+2019-08-20 14:42:27.5545 INFO Returned all owners from database.
+2019-08-20 14:42:38.2154 INFO Returned all owners from database.
+2019-08-20 14:43:28.8047 INFO Returned all owners from database.
+2019-08-20 14:43:38.2491 INFO Returned all owners from database.
+2019-08-20 14:43:43.8937 INFO Returned all owners from database.
+2019-08-20 14:43:54.5169 INFO Returned all owners from database.
+2019-08-20 14:44:02.7195 INFO Returned all owners from database.
+2019-08-20 14:44:08.1980 INFO Returned all owners from database.
+2019-08-20 14:44:15.6831 INFO Returned all owners from database.
+2019-08-20 14:44:24.6674 INFO Returned all owners from database.
+2019-08-20 14:44:44.5240 INFO Returned all owners from database.
+2019-08-20 14:45:06.1054 INFO Returned all owners from database.
+2019-08-20 14:45:14.3007 INFO Returned all owners from database.
+2019-08-20 14:45:22.3596 INFO Returned all owners from database.
+2019-08-20 14:46:20.9380 INFO Returned all owners from database.
+2019-08-20 14:46:28.6976 INFO Returned all owners from database.
+2019-08-20 14:46:52.9369 INFO Returned all owners from database.
+2019-08-20 14:46:59.1896 INFO Returned all owners from database.
+2019-08-20 14:47:47.1554 INFO Returned all owners from database.
+2019-08-20 14:49:01.1486 INFO Returned all owners from database.
+2019-08-20 14:49:41.2219 INFO Returned all owners from database.
+2019-08-20 14:49:54.5256 INFO Returned all owners from database.
+2019-08-20 14:50:03.7151 INFO Returned all owners from database.
+2019-08-20 14:50:10.8020 INFO Returned all owners from database.
+2019-08-20 14:50:13.5188 INFO Returned all owners from database.
+2019-08-20 14:50:36.2586 INFO Returned all owners from database.
+2019-08-20 14:50:41.9431 INFO Returned all owners from database.
+2019-08-20 14:51:20.8814 INFO Returned all owners from database.
+2019-08-20 14:51:26.4471 INFO Returned all owners from database.
+2019-08-20 14:51:45.6139 INFO Returned all owners from database.
+2019-08-20 14:51:55.9294 INFO Returned all owners from database.
+2019-08-20 14:56:28.6666 INFO Returned all owners from database.
+2019-08-20 15:08:23.4785 INFO Returned all owners from database.
+2019-08-20 15:10:26.7377 INFO Returned all owners from database.
+2019-08-20 15:59:25.9398 INFO Returned all owners from database.
+2019-08-20 15:59:29.2907 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-20 15:59:46.0484 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-20 16:00:13.4297 INFO Returned all owners from database.
+2019-08-20 16:00:15.1246 INFO Returned owner with details for id: 5aef7bd4-b45c-4125-85ee-4c391d464f24
+2019-08-20 16:00:19.6667 INFO Returned owner with details for id: 5aef7bd4-b45c-4125-85ee-4c391d464f24
+2019-08-20 16:00:40.1602 INFO Returned owner with details for id: 5aef7bd4-b45c-4125-85ee-4c391d464f24
+2019-08-20 16:00:51.5179 INFO Returned all owners from database.
+2019-08-20 16:00:54.6514 INFO Returned owner with details for id: 31f3517a-b398-46a0-9c60-ffa75dde521c
+2019-08-20 16:00:58.3579 INFO Returned all owners from database.
+2019-08-20 16:01:02.2395 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-08-20 16:01:12.8518 INFO Returned all owners from database.
+2019-08-20 16:01:14.5047 INFO Returned owner with details for id: 31f3517a-b398-46a0-9c60-ffa75dde521c
+2019-08-20 16:01:16.7749 INFO Returned all owners from database.
+2019-08-20 16:01:18.1699 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:25:14.7590 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:25:30.9832 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:25:37.0857 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:25:44.8370 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:28:40.4756 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:28:45.5320 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:30:53.4120 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:32:10.0712 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:32:17.7345 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 16:32:23.1793 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-20 17:36:30.9272 INFO Returned all owners from database.
+2019-08-20 17:36:41.2909 INFO Returned all owners from database.
+2019-08-20 17:36:56.2426 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620

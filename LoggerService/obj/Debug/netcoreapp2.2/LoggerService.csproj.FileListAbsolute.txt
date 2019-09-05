@@ -3,10 +3,8 @@ D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.
 D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.pdb
 D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Contracts.dll
 D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Entities.dll
-D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
 D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Contracts.pdb
 D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Entities.pdb
-D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
 D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csprojResolveAssemblyReference.cache
 D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csproj.CoreCompileInputs.cache
 D:\my-Tests\2019\Angular\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfoInputs.cache
