@@ -138,3 +138,74 @@
 2019-09-05 11:20:04.9651 INFO Returned all owners from database.
 2019-09-05 11:20:16.9808 INFO Returned all owners from database.
 2019-09-05 11:20:44.3799 INFO Returned all owners from database.
+2019-09-05 13:00:07.0896 INFO Returned owner with details for id: 60e935d1-b9e3-4486-ab11-b4903d066f8d
+2019-09-05 14:21:31.5740 INFO $Retuened all accounts and their owners
+2019-09-05 14:21:54.5940 INFO Returned all owners from database.
+2019-09-05 14:22:26.9440 INFO Returned all owners from database.
+2019-09-05 14:22:34.9370 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-09-05 14:22:55.1859 INFO $Retuened all accounts and their owners
+2019-09-05 14:24:11.2009 INFO Returned all owners from database.
+2019-09-05 14:24:16.8951 INFO Returned all owners from database.
+2019-09-05 14:24:19.9993 INFO $Retuened all accounts and their owners
+2019-09-05 14:26:50.9921 INFO $Retuened all accounts and their owners
+2019-09-05 14:26:55.8337 INFO Returned all owners from database.
+2019-09-05 14:26:57.6401 INFO $Retuened all accounts and their owners
+2019-09-05 14:33:09.4828 INFO Returned all owners from database.
+2019-09-05 14:33:12.7986 INFO $Retuened all accounts and their owners
+2019-09-05 14:34:30.0779 INFO $Retuened all accounts and their owners
+2019-09-05 14:36:12.6182 INFO Returned all owners from database.
+2019-09-05 14:36:13.0495 INFO $Retuened all accounts and their owners
+2019-09-05 14:36:13.1453 INFO Returned owner with details for id: 60e935d1-b9e3-4486-ab11-b4903d066f8d
+2019-09-05 14:36:13.1709 INFO Returned owner with details for id: 60e935d1-b9e3-4486-ab11-b4903d066f8d
+2019-09-05 14:36:13.2262 ERROR Account with id: 00000000-0000-0000-0000-000000000000, hasn't been found in db.
+2019-09-05 14:38:54.2903 INFO $Retuened all accounts and their owners
+2019-09-05 14:39:07.3730 INFO $Retuened all accounts and their owners
+2019-09-05 14:39:14.1225 INFO $Retuened all accounts and their owners
+2019-09-05 14:39:26.5768 INFO $Retuened all accounts and their owners
+2019-09-05 14:39:41.2019 INFO $Retuened all accounts and their owners
+2019-09-05 14:40:05.8297 INFO $Retuened all accounts and their owners
+2019-09-05 14:40:16.5089 INFO $Retuened all accounts and their owners
+2019-09-05 14:41:30.7168 INFO $Retuened all accounts and their owners
+2019-09-05 14:41:39.4260 INFO Returned owners and Ids from database.
+2019-09-05 14:41:54.2777 INFO $Retuened all accounts and their owners
+2019-09-05 14:43:32.3126 ERROR Account with id: 00000000-0000-0000-0000-000000000000, hasn't been found in db.
+2019-09-05 14:43:32.3413 INFO Returned all owners from database.
+2019-09-05 14:43:32.4629 INFO $Retuened all accounts and their owners
+2019-09-05 14:43:32.4994 INFO $Retuened all accounts and their owners
+2019-09-05 14:43:38.7222 INFO $Retuened all accounts and their owners
+2019-09-05 14:43:41.7299 INFO Returned all owners from database.
+2019-09-05 14:43:44.6042 INFO $Retuened all accounts and their owners
+2019-09-05 14:43:51.1725 INFO Returned all owners from database.
+2019-09-05 14:43:54.2151 INFO $Retuened all accounts and their owners
+2019-09-05 14:44:00.3467 INFO $Retuened all accounts and their owners
+2019-09-05 14:44:10.4195 INFO Returned all owners from database.
+2019-09-05 14:45:06.3814 INFO Returned all owners from database.
+2019-09-05 14:45:08.5647 INFO $Retuened all accounts and their owners
+2019-09-05 14:45:30.8630 INFO Returned all owners from database.
+2019-09-05 14:45:42.4444 INFO Returned all owners from database.
+2019-09-05 14:47:36.7807 INFO $Retuened all accounts and their owners
+2019-09-05 14:47:42.4691 INFO $Retuened all accounts and their owners
+2019-09-05 14:50:25.3050 INFO Returned all owners from database.
+2019-09-05 14:50:30.5787 INFO $Retuened all accounts and their owners
+2019-09-05 14:50:38.7623 INFO Returned all owners from database.
+2019-09-05 14:50:51.2948 INFO Returned all owners from database.
+2019-09-05 14:51:06.9300 INFO $Retuened all accounts and their owners
+2019-09-05 14:51:12.8288 INFO $Retuened all accounts and their owners
+2019-09-05 14:52:16.9268 INFO $Retuened all accounts and their owners
+2019-09-05 14:53:04.2022 INFO $Retuened all accounts and their owners
+2019-09-05 14:54:31.0883 INFO $Retuened all accounts and their owners
+2019-09-05 14:54:35.5263 INFO $Retuened all accounts and their owners
+2019-09-05 14:56:38.0860 INFO Returned all owners from database.
+2019-09-05 14:56:43.9961 INFO $Retuened all accounts and their owners
+2019-09-05 14:56:45.9763 INFO Returned all owners from database.
+2019-09-05 14:56:47.7461 INFO $Retuened all accounts and their owners
+2019-09-05 14:56:53.2720 INFO $Retuened all accounts and their owners
+2019-09-05 15:05:37.4852 ERROR Account with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906, hasn't been found in db.
+2019-09-05 15:06:48.4222 ERROR Account with id: c1348646-63d0-40ed-9402-8a9eebf0b347, hasn't been found in db.
+2019-09-05 15:07:34.6281 INFO Returned owner with details for id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-05 15:08:16.9345 INFO Returned owner with details for id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-05 15:08:56.8840 INFO Returned owner with details for id: 371b93f2-f8c5-4a32-894a-fc672741aa5b
+2019-09-05 15:12:26.7818 INFO $Retuened all accounts and their owners
+2019-09-05 15:13:04.6124 ERROR Account with id: 00000000-0000-0000-0000-000000000000, hasn't been found in db.
+2019-09-05 15:13:08.2818 INFO $Retuened all accounts and their owners
+2019-09-05 16:38:11.2531 INFO Returned owner with details for id: 371b93f2-f8c5-4a32-894a-fc672741aa5b

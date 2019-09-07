@@ -111,6 +111,62 @@ namespace AccountOwnerServer.Controllers
             }
         }
 
+        [HttpGet("{id}/owner")]
+        public IActionResult GetAccountWithOwner(Guid id)
+        {
+            try
+            {
+                var account = _repository.Account.GetAccountWithOwner(id);
+                if(account == null)
+                {
+                    _logger.LogError($"Account with id: {id}, hasn't been found in db.");
+                    return NotFound();
+                }
+                else
+                {
+                    _logger.LogInfo($"Returned owner with details for id: {id}");
+                    return Ok(account);
+                }
+            }
+            catch (Exception ex)
+            {
+
+                _logger.LogError($"Something went wrong inside GetAccountWithOwner action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteAccount(Guid id)
+        {
+            try
+            {
+                var account = _repository.Account.GetAccountById(id);
+                if (account.IsEmptyObject())
+                {
+                    _logger.LogError($"Account with id: {id}, hasn't been found in db.");
+                    return NotFound();
+                }
+
+                //Check of owner has existing account
+                if (_repository.Account.AccountsByOwner(id).Any())
+                {
+                    _logger.LogError($"Cannot delete account with id: {id}. It has related accounts. Delete those owners first");
+                    return BadRequest("Cannot delete account. It has related owners. Delete those owners first");
+                }
+
+                _repository.Account.DeleteAccount(account);
+                _repository.Save();
+
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Something went wrong inside DeleteAccount action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
+
 
     }
 }

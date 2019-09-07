@@ -1,5 +1,6 @@
 ﻿using Contracts;
 using Entities;
+using Entities.Extensions;
 using Entities.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -58,6 +59,45 @@ namespace Repository
             account.Id = Guid.NewGuid();
             Create(account);
             
+        }
+
+        public OwnerAccount GetAccountWithOwner(Guid accountId)
+        {
+            return (from a in RepositoryContext.Accounts
+                    join o in RepositoryContext.Owners on a.Id equals accountId
+                    select new OwnerAccount
+                    {
+                        OwnerId = o.Id,
+                        Owner = o.Name,
+                        AccountId = a.Id,
+                        AccountType = a.AccountType,
+                        DateCreated = a.DateCreated
+                    }).FirstOrDefault();
+
+
+            //return (from o in RepositoryContext.Owners
+            //        from a in RepositoryContext.Accounts
+            //        where a.Id == accountId
+            //        select new OwnerAccount
+            //        {
+            //            OwnerId = o.Id,
+            //            Owner = o.Name,
+            //            AccountId = a.Id,
+            //            AccountType = a.AccountType,
+            //            DateCreated = a.DateCreated
+            //        }).FirstOrDefault();
+
+        }
+
+        public void UpdateAccount(Account dbAccount, Account account)
+        {
+            dbAccount.Map(account);
+            Update(dbAccount);
+        }
+
+        public void DeleteAccount(Account account)
+        {
+            Delete(account);
         }
     }
 }

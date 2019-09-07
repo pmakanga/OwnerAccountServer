@@ -1,0 +1,167 @@
+2019-09-06 10:31:18.5027 INFO Returned owner with details for id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 12:18:31.2564 ERROR Something went wrong inside GetAccountById action: The property 'Name' is not a navigation property of entity type 'Account'. The 'Include(string)' method can only be used with a '.' separated list of navigation property names.
+2019-09-06 12:19:33.8305 ERROR Something went wrong inside GetAccountById action: The property 'Name' is not a navigation property of entity type 'Account'. The 'Include(string)' method can only be used with a '.' separated list of navigation property names.
+2019-09-06 12:39:03.9463 INFO Returned all owners from database.
+2019-09-06 12:39:07.8082 INFO $Retuened all accounts and their owners
+2019-09-06 12:39:14.1348 INFO $Retuened all accounts and their owners
+2019-09-06 12:39:40.8704 ERROR Account with id: 00000000-0000-0000-0000-000000000000 hasn't been found in the db
+2019-09-06 12:41:07.4834 INFO $Retuened all accounts and their owners
+2019-09-06 12:41:35.3324 ERROR Account with id: 00000000-0000-0000-0000-000000000000 hasn't been found in the db
+2019-09-06 12:41:38.8705 INFO $Retuened all accounts and their owners
+2019-09-06 12:42:09.8423 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 12:54:29.7783 ERROR Account with id: 00000000-0000-0000-0000-000000000000 hasn't been found in the db
+2019-09-06 12:54:29.8806 INFO $Retuened all accounts and their owners
+2019-09-06 12:54:50.8721 INFO $Retuened all accounts and their owners
+2019-09-06 12:55:09.0889 INFO Returned all owners from database.
+2019-09-06 12:55:15.9150 INFO Returned all owners from database.
+2019-09-06 12:55:27.9972 INFO $Retuened all accounts and their owners
+2019-09-06 12:55:42.9339 INFO $Retuened all accounts and their owners
+2019-09-06 12:56:09.3544 INFO $Retuened all accounts and their owners
+2019-09-06 12:56:10.8411 INFO Returned all owners from database.
+2019-09-06 12:56:52.3106 INFO Returned all owners from database.
+2019-09-06 12:57:10.1685 INFO Returned all owners from database.
+2019-09-06 12:57:22.5273 INFO $Retuened all accounts and their owners
+2019-09-06 14:58:45.8778 INFO $Retuened all accounts and their owners
+2019-09-06 15:07:14.1937 INFO Returned all owners from database.
+2019-09-06 15:07:18.3624 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-09-06 15:14:27.9252 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-09-06 15:14:47.2441 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-09-06 15:16:19.2932 INFO $Retuened all accounts and their owners
+2019-09-06 15:17:04.6070 INFO $Retuened all accounts and their owners
+2019-09-06 15:17:33.6308 INFO $Retuened all accounts and their owners
+2019-09-06 15:17:42.5411 INFO $Retuened all accounts and their owners
+2019-09-06 15:17:57.5263 INFO $Retuened all accounts and their owners
+2019-09-06 15:18:46.5519 INFO $Retuened all accounts and their owners
+2019-09-06 15:18:58.3934 INFO $Retuened all accounts and their owners
+2019-09-06 15:19:07.2150 INFO $Retuened all accounts and their owners
+2019-09-06 15:22:23.5121 ERROR Account with id: 00000000-0000-0000-0000-000000000000 hasn't been found in the db
+2019-09-06 15:22:23.5492 ERROR Account with id: 00000000-0000-0000-0000-000000000000 hasn't been found in the db
+2019-09-06 15:22:27.9856 INFO Returned all owners from database.
+2019-09-06 15:22:30.8503 INFO $Retuened all accounts and their owners
+2019-09-06 15:22:59.9485 INFO Returned all owners from database.
+2019-09-06 15:25:01.6029 INFO Returned all owners from database.
+2019-09-06 15:25:22.4512 INFO Returned all owners from database.
+2019-09-06 15:25:36.8406 INFO Returned all owners from database.
+2019-09-06 15:27:39.8023 INFO $Retuened all accounts and their owners
+2019-09-06 15:38:02.6191 INFO $Retuened all accounts and their owners
+2019-09-06 15:38:16.3985 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 15:39:30.0426 INFO $Retuened all accounts and their owners
+2019-09-06 15:39:37.6674 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:49:15.4607 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:49:33.2898 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:49:38.7211 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:50:28.0038 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:51:58.9733 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:54:27.1708 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:54:33.1478 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:54:51.7350 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:55:06.2466 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:57:16.6886 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:57:31.5284 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:57:43.1524 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:57:54.6155 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:58:02.7883 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:58:12.6277 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:58:17.3133 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 15:58:48.0183 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:01:01.2412 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:01:01.8020 ERROR Owner with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4, hasn't been found in db.
+2019-09-06 16:01:13.2968 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:01:13.3637 ERROR Owner with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4, hasn't been found in db.
+2019-09-06 16:01:26.5836 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:01:47.7538 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:01:47.8613 ERROR Owner with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4, hasn't been found in db.
+2019-09-06 16:02:27.0558 INFO $Retuened all accounts and their owners
+2019-09-06 16:02:29.2049 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:02:29.2185 ERROR Owner with id: 03e91478-5608-4132-a753-d494dafce00b, hasn't been found in db.
+2019-09-06 16:17:12.5617 INFO $Retuened all accounts and their owners
+2019-09-06 16:17:17.2204 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:19:03.6506 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:19:57.2402 INFO $Retuened all accounts and their owners
+2019-09-06 16:20:02.8774 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:20:55.8540 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:21:02.1257 INFO $Retuened all accounts and their owners
+2019-09-06 16:21:23.8847 INFO $Retuened all accounts and their owners
+2019-09-06 16:21:26.0526 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:21:52.6771 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:21:58.1576 INFO $Retuened all accounts and their owners
+2019-09-06 16:22:00.4952 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:22:18.9407 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:22:23.1233 INFO $Retuened all accounts and their owners
+2019-09-06 16:22:25.6219 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:40:04.1044 INFO $Retuened all accounts and their owners
+2019-09-06 16:40:07.6225 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:40:12.6486 INFO $Retuened all accounts and their owners
+2019-09-06 16:40:56.7750 INFO $Retuened all accounts and their owners
+2019-09-06 16:41:07.0200 INFO $Retuened all accounts and their owners
+2019-09-06 16:41:36.1163 INFO $Retuened all accounts and their owners
+2019-09-06 16:42:11.9224 INFO $Retuened all accounts and their owners
+2019-09-06 16:42:23.0398 INFO $Retuened all accounts and their owners
+2019-09-06 16:42:39.2659 INFO $Retuened all accounts and their owners
+2019-09-06 16:42:47.4724 INFO $Retuened all accounts and their owners
+2019-09-06 16:42:53.0939 INFO Returned all owners from database.
+2019-09-06 16:42:54.5838 INFO $Retuened all accounts and their owners
+2019-09-06 16:43:03.3705 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:43:52.7826 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:43:58.5470 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:44:21.9137 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:44:28.2313 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:44:37.1548 INFO Returned all owners from database.
+2019-09-06 16:44:49.7293 INFO Returned all owners from database.
+2019-09-06 16:44:54.7617 INFO $Retuened all accounts and their owners
+2019-09-06 16:44:57.9055 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:46:20.5447 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:46:32.3325 INFO $Retuened all accounts and their owners
+2019-09-06 16:46:38.9940 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:50:27.1452 INFO $Retuened all accounts and their owners
+2019-09-06 16:50:31.8817 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:51:54.0430 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:51:54.2083 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-06 16:52:10.1254 INFO $Retuened all accounts and their owners
+2019-09-06 16:52:15.1493 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:52:15.2691 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-06 16:52:48.3903 INFO $Retuened all accounts and their owners
+2019-09-06 16:54:03.7349 INFO $Retuened all accounts and their owners
+2019-09-06 16:54:17.2641 INFO $Retuened all accounts and their owners
+2019-09-06 16:54:31.7691 INFO $Retuened all accounts and their owners
+2019-09-06 16:54:39.3641 INFO $Retuened all accounts and their owners
+2019-09-06 16:54:41.2321 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 16:54:41.2356 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-06 16:55:08.3253 INFO $Retuened all accounts and their owners
+2019-09-06 16:55:11.9467 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:55:12.0104 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-06 16:55:45.1664 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:56:16.4955 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:56:35.1951 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:56:42.6295 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:57:03.3528 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:57:10.0770 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:57:57.6399 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:58:18.2342 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 16:58:49.3155 INFO $Retuened all accounts and their owners
+2019-09-06 16:58:58.2381 INFO Returned all owners from database.
+2019-09-06 16:59:02.6892 INFO $Retuened all accounts and their owners
+2019-09-06 16:59:09.8438 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:00:03.2452 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:00:44.4523 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:00:50.4922 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:01:03.0285 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:01:17.1204 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:01:29.0692 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:01:41.5584 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:01:47.7909 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:01:48.5963 INFO $Retuened all accounts and their owners
+2019-09-06 17:01:54.2198 INFO Returned all owners from database.
+2019-09-06 17:01:55.3394 INFO $Retuened all accounts and their owners
+2019-09-06 17:01:58.3804 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:02:41.5185 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:02:43.8499 INFO $Retuened all accounts and their owners
+2019-09-06 17:02:46.8430 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:04:10.5538 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:04:48.5941 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:05:21.7482 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:05:46.4790 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:05:54.1862 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-06 17:06:01.4990 INFO $Retuened all accounts and their owners
+2019-09-06 17:06:06.0918 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-06 17:06:19.0738 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
