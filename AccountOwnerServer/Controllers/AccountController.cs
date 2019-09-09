@@ -167,6 +167,43 @@ namespace AccountOwnerServer.Controllers
             }
         }
 
+        [HttpPut("{id}")]
+        public IActionResult UpdateAccount(Guid id, [FromBody]Account account)
+        {
+            try
+            {
+                if (account.IsObjectNull())
+                {
+                    _logger.LogError("Account object sent from client is null.");
+                    return BadRequest("Account object is null");
+                }
+
+                if (!ModelState.IsValid)
+                {
+                    _logger.LogError("Invalid account object sent from client.");
+                    return BadRequest("Invalid model object");
+                }
+
+                var dbAccount = _repository.Account.GetAccountById(id);
+                if (dbAccount.IsEmptyObject())
+                {
+                    _logger.LogError($"Account with id: {id}, hasn't been found in db.");
+                    return NotFound();
+                }
+
+                _repository.Account.UpdateAccount(dbAccount, account);
+                _repository.Save();
+
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+
+                _logger.LogError($"Something went wrong inside UpdateAccount action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
+
 
     }
 }

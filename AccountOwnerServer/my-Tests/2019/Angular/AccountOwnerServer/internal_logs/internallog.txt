@@ -27398,3 +27398,850 @@
 2019-09-07 10:52:24.9429 Trace  Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
 2019-09-07 10:52:24.9429 Trace File Target[logfile] has 2 layouts
 2019-09-07 10:52:24.9594 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender+Factory
+2019-09-07 11:00:57.3106 Debug Targets for LoggerService.LoggerManager by level:
+2019-09-07 11:00:57.3846 Debug Trace =>
+2019-09-07 11:00:57.3990 Debug Debug => logfile
+2019-09-07 11:00:57.3990 Debug Info => logfile
+2019-09-07 11:00:57.3990 Debug Warn => logfile
+2019-09-07 11:00:57.3990 Debug Error => logfile
+2019-09-07 11:00:57.3990 Debug Fatal => logfile
+2019-09-07 11:00:57.4731 Debug FileTarget(Name=logfile): Process file 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt' on startup
+2019-09-07 11:00:57.5000 Debug Creating file appender: D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt
+2019-09-07 11:00:57.5075 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:01:55.9740 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:02:39.4616 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:02:56.3765 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:03:04.5000 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:03:11.2779 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:03:21.5628 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:04:18.5240 Debug ScanAssembly('NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
+2019-09-07 11:04:18.7976 Debug Found assembly location directory: 'C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0' (NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c)
+2019-09-07 11:04:18.8023 Debug Search for auto loading files in location: C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0
+2019-09-07 11:04:18.8023 Debug Found assembly location directory: 'D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2' (AccountOwnerServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)
+2019-09-07 11:04:18.8023 Debug Search for auto loading files in location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-07 11:04:18.8023 Debug Auto loading based on AppDomain-BaseDirectory found location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-07 11:04:18.8023 Debug Search for auto loading files in location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-07 11:04:18.8171 Debug Start auto loading, location: C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0
+2019-09-07 11:04:18.8171 Trace Assembly 'Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' will be hidden in callsite stacktrace
+2019-09-07 11:04:18.8171 Trace Assembly 'Microsoft.Extensions.Logging.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' will be hidden in callsite stacktrace
+2019-09-07 11:04:18.8171 Debug Auto loading done
+2019-09-07 11:04:18.8171 Info Message Template Auto Format enabled
+2019-09-07 11:04:18.8587 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:18.8587 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-07 11:04:18.8709 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2019-09-07 11:04:18.9656 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2019-09-07 11:04:18.9656 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:18.9656 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-07 11:04:18.9729 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:18.9729 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-07 11:04:18.9729 Trace  Scanning Property Culture '' System.Globalization
+2019-09-07 11:04:18.9729 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-07 11:04:18.9729 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-07 11:04:18.9729 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:18.9889 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-07 11:04:18.9889 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:18.9889 Trace Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2019-09-07 11:04:18.9889 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:18.9889 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-07 11:04:19.0140 Debug Setting 'FileTarget.name' to 'logfile'
+2019-09-07 11:04:19.0140 Debug Setting 'FileTarget.fileName' to 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'
+2019-09-07 11:04:19.0140 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:19.0140 Trace Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-07 11:04:19.0216 Debug Setting 'FileTarget.layout' to '${longdate} ${level:uppercase=true} ${message}'
+2019-09-07 11:04:19.0216 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:19.0216 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-07 11:04:19.0216 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2019-09-07 11:04:19.0216 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2019-09-07 11:04:19.0216 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:19.0216 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-07 11:04:19.0216 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:19.0216 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-07 11:04:19.0216 Trace  Scanning Property Culture '' System.Globalization
+2019-09-07 11:04:19.0216 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-07 11:04:19.0216 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-07 11:04:19.0356 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:19.0356 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-07 11:04:19.0356 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-07 11:04:19.0356 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-07 11:04:19.0356 Info Adding target FileTarget(Name=logfile)
+2019-09-07 11:04:19.0356 Debug Registered target logfile: NLog.Targets.FileTarget
+2019-09-07 11:04:19.0356 Trace ParseRulesElement
+2019-09-07 11:04:19.0804 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2019-09-07 11:04:19.0918 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2019-09-07 11:04:19.1119 Debug Watching path 'D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer' filter 'nlog.config' for changes.
+2019-09-07 11:04:19.1139 Debug --- NLog configuration dump ---
+2019-09-07 11:04:19.1139 Debug Targets:
+2019-09-07 11:04:19.1139 Debug File Target[logfile]
+2019-09-07 11:04:19.1139 Debug Rules:
+2019-09-07 11:04:19.1139 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] appendTo: [ logfile ]
+2019-09-07 11:04:19.1139 Debug --- End of NLog configuration dump ---
+2019-09-07 11:04:19.1139 Trace FindReachableObject<System.Object>:
+2019-09-07 11:04:19.1290 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] appendTo: [ logfile ]'
+2019-09-07 11:04:19.1290 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic
+2019-09-07 11:04:19.1290 Trace  Scanning FileTarget 'File Target[logfile]'
+2019-09-07 11:04:19.1290 Trace   Scanning Property FileName ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'' NLog.Layouts
+2019-09-07 11:04:19.1290 Trace   Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-07 11:04:19.1290 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:19.1290 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-07 11:04:19.1290 Trace    Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-07 11:04:19.1290 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-07 11:04:19.1290 Trace   Scanning Property Layout ''${longdate} ${level:uppercase=true} ${message}'' NLog.Layouts
+2019-09-07 11:04:19.1290 Trace   Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-07 11:04:19.1290 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:19.1447 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-07 11:04:19.1447 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-07 11:04:19.1447 Trace    Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-07 11:04:19.1447 Trace     Scanning Property Culture '' System.Globalization
+2019-09-07 11:04:19.1447 Trace     Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-07 11:04:19.1447 Trace     Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-07 11:04:19.1447 Trace      Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:19.1447 Trace      Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-07 11:04:19.1447 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-07 11:04:19.1447 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-07 11:04:19.1447 Trace   Scanning Property LineEnding 'Default' NLog.Targets
+2019-09-07 11:04:19.1447 Trace   Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
+2019-09-07 11:04:19.1447 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic
+2019-09-07 11:04:19.1603 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic
+2019-09-07 11:04:19.1603 Info Found 14 configuration items
+2019-09-07 11:04:19.1603 Trace Initializing Layout Renderer: ${message}
+2019-09-07 11:04:19.1603 Trace Initializing Layout Renderer: ${literal}
+2019-09-07 11:04:19.1603 Trace Initializing Layout Renderer: ${level}
+2019-09-07 11:04:19.1603 Trace Initializing SimpleLayout=Layout Renderer: ${level}
+2019-09-07 11:04:19.1603 Trace FindReachableObject<System.Object>:
+2019-09-07 11:04:19.1603 Trace Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-07 11:04:19.1603 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:19.1603 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-07 11:04:19.1794 Trace Initializing Layout Renderer: ${uppercase}
+2019-09-07 11:04:19.1794 Trace Initializing Layout Renderer: ${literal}
+2019-09-07 11:04:19.1794 Trace Initializing Layout Renderer: ${longdate}
+2019-09-07 11:04:19.1794 Trace Initializing '${longdate} ${level:uppercase=true} ${message}'
+2019-09-07 11:04:19.1794 Trace FindReachableObject<System.Object>:
+2019-09-07 11:04:19.1794 Trace Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-07 11:04:19.1794 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:19.1794 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-07 11:04:19.1794 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-07 11:04:19.1794 Trace  Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-07 11:04:19.1794 Trace   Scanning Property Culture '' System.Globalization
+2019-09-07 11:04:19.1924 Trace   Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-07 11:04:19.1924 Trace   Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-07 11:04:19.1924 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:19.1924 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-07 11:04:19.1924 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-07 11:04:19.1924 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-07 11:04:19.1924 Trace Initializing Layout Renderer: ${literal}
+2019-09-07 11:04:19.1924 Trace Initializing Layout Renderer: ${shortdate}
+2019-09-07 11:04:19.1924 Trace Initializing Layout Renderer: ${literal}
+2019-09-07 11:04:19.1924 Trace Initializing 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'
+2019-09-07 11:04:19.1924 Trace FindReachableObject<System.Object>:
+2019-09-07 11:04:19.1924 Trace Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-07 11:04:19.1924 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-07 11:04:19.1924 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-07 11:04:19.1924 Trace  Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-07 11:04:19.1924 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-07 11:04:19.2075 Trace Initializing File Target[logfile]
+2019-09-07 11:04:19.2075 Trace FindReachableObject<NLog.Layouts.Layout>:
+2019-09-07 11:04:19.2075 Trace Scanning FileTarget 'File Target[logfile]'
+2019-09-07 11:04:19.2075 Trace  Scanning Property FileName ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'' NLog.Layouts
+2019-09-07 11:04:19.2075 Trace  Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-07 11:04:19.2075 Trace  Scanning Property Layout ''${longdate} ${level:uppercase=true} ${message}'' NLog.Layouts
+2019-09-07 11:04:19.2075 Trace  Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-07 11:04:19.2075 Trace  Scanning Property LineEnding 'Default' NLog.Targets
+2019-09-07 11:04:19.2075 Trace  Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
+2019-09-07 11:04:19.2075 Trace File Target[logfile] has 2 layouts
+2019-09-07 11:04:19.2246 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender+Factory
+2019-09-07 11:06:03.0557 Debug Targets for LoggerService.LoggerManager by level:
+2019-09-07 11:06:03.0557 Debug Trace =>
+2019-09-07 11:06:03.0557 Debug Debug => logfile
+2019-09-07 11:06:03.0557 Debug Info => logfile
+2019-09-07 11:06:03.0557 Debug Warn => logfile
+2019-09-07 11:06:03.0665 Debug Error => logfile
+2019-09-07 11:06:03.0665 Debug Fatal => logfile
+2019-09-07 11:06:03.1272 Debug FileTarget(Name=logfile): Process file 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt' on startup
+2019-09-07 11:06:03.1424 Debug Creating file appender: D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt
+2019-09-07 11:06:03.1667 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:07:31.3565 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-07 11:07:37.4956 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-07_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:38:09.2220 Debug ScanAssembly('NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
+2019-09-09 08:38:11.2873 Debug Found assembly location directory: 'C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0' (NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c)
+2019-09-09 08:38:11.2873 Debug Search for auto loading files in location: C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0
+2019-09-09 08:38:11.4382 Debug Found assembly location directory: 'D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2' (AccountOwnerServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)
+2019-09-09 08:38:11.4382 Debug Search for auto loading files in location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-09 08:38:11.4382 Debug Auto loading based on AppDomain-BaseDirectory found location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-09 08:38:11.4382 Debug Search for auto loading files in location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-09 08:38:11.4382 Debug Start auto loading, location: C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0
+2019-09-09 08:38:11.5090 Trace Assembly 'Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' will be hidden in callsite stacktrace
+2019-09-09 08:38:11.5663 Trace Assembly 'Microsoft.Extensions.Logging.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' will be hidden in callsite stacktrace
+2019-09-09 08:38:11.5663 Debug Auto loading done
+2019-09-09 08:38:11.5835 Info Message Template Auto Format enabled
+2019-09-09 08:38:11.8326 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:11.8485 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-09 08:38:11.9462 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2019-09-09 08:38:12.1201 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2019-09-09 08:38:12.1201 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.1201 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 08:38:12.1423 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.1423 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-09 08:38:12.1423 Trace  Scanning Property Culture '' System.Globalization
+2019-09-09 08:38:12.1650 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-09 08:38:12.1650 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 08:38:12.1650 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.1650 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 08:38:12.1710 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.1710 Trace Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2019-09-09 08:38:12.1710 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.1710 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-09 08:38:12.1905 Debug Setting 'FileTarget.name' to 'logfile'
+2019-09-09 08:38:12.1905 Debug Setting 'FileTarget.fileName' to 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'
+2019-09-09 08:38:12.1905 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.1905 Trace Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-09 08:38:12.1905 Debug Setting 'FileTarget.layout' to '${longdate} ${level:uppercase=true} ${message}'
+2019-09-09 08:38:12.1905 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.1905 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-09 08:38:12.1905 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2019-09-09 08:38:12.2060 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2019-09-09 08:38:12.2060 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.2060 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 08:38:12.2060 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.2060 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-09 08:38:12.2060 Trace  Scanning Property Culture '' System.Globalization
+2019-09-09 08:38:12.2060 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-09 08:38:12.2060 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 08:38:12.2060 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.2060 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 08:38:12.2060 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 08:38:12.2060 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-09 08:38:12.2188 Info Adding target FileTarget(Name=logfile)
+2019-09-09 08:38:12.2188 Debug Registered target logfile: NLog.Targets.FileTarget
+2019-09-09 08:38:12.2188 Trace ParseRulesElement
+2019-09-09 08:38:12.3654 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2019-09-09 08:38:12.3831 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2019-09-09 08:38:12.4292 Debug Watching path 'D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer' filter 'nlog.config' for changes.
+2019-09-09 08:38:12.4292 Debug --- NLog configuration dump ---
+2019-09-09 08:38:12.4292 Debug Targets:
+2019-09-09 08:38:12.4292 Debug File Target[logfile]
+2019-09-09 08:38:12.4292 Debug Rules:
+2019-09-09 08:38:12.4387 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] appendTo: [ logfile ]
+2019-09-09 08:38:12.4387 Debug --- End of NLog configuration dump ---
+2019-09-09 08:38:12.4387 Trace FindReachableObject<System.Object>:
+2019-09-09 08:38:12.4387 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] appendTo: [ logfile ]'
+2019-09-09 08:38:12.4387 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic
+2019-09-09 08:38:12.4387 Trace  Scanning FileTarget 'File Target[logfile]'
+2019-09-09 08:38:12.4387 Trace   Scanning Property FileName ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'' NLog.Layouts
+2019-09-09 08:38:12.4387 Trace   Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-09 08:38:12.4538 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.4538 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 08:38:12.4538 Trace    Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-09 08:38:12.4538 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 08:38:12.4538 Trace   Scanning Property Layout ''${longdate} ${level:uppercase=true} ${message}'' NLog.Layouts
+2019-09-09 08:38:12.4538 Trace   Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-09 08:38:12.4538 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.4538 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-09 08:38:12.4538 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 08:38:12.4538 Trace    Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-09 08:38:12.4538 Trace     Scanning Property Culture '' System.Globalization
+2019-09-09 08:38:12.4538 Trace     Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-09 08:38:12.4688 Trace     Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 08:38:12.4688 Trace      Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.4688 Trace      Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 08:38:12.4688 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 08:38:12.4688 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-09 08:38:12.4688 Trace   Scanning Property LineEnding 'Default' NLog.Targets
+2019-09-09 08:38:12.4688 Trace   Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
+2019-09-09 08:38:12.4688 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic
+2019-09-09 08:38:12.4688 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic
+2019-09-09 08:38:12.4688 Info Found 14 configuration items
+2019-09-09 08:38:12.4847 Trace Initializing Layout Renderer: ${message}
+2019-09-09 08:38:12.4847 Trace Initializing Layout Renderer: ${literal}
+2019-09-09 08:38:12.4847 Trace Initializing Layout Renderer: ${level}
+2019-09-09 08:38:12.4847 Trace Initializing SimpleLayout=Layout Renderer: ${level}
+2019-09-09 08:38:12.4847 Trace FindReachableObject<System.Object>:
+2019-09-09 08:38:12.4847 Trace Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 08:38:12.4847 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.4847 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 08:38:12.5025 Trace Initializing Layout Renderer: ${uppercase}
+2019-09-09 08:38:12.5025 Trace Initializing Layout Renderer: ${literal}
+2019-09-09 08:38:12.5025 Trace Initializing Layout Renderer: ${longdate}
+2019-09-09 08:38:12.5025 Trace Initializing '${longdate} ${level:uppercase=true} ${message}'
+2019-09-09 08:38:12.5025 Trace FindReachableObject<System.Object>:
+2019-09-09 08:38:12.5025 Trace Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-09 08:38:12.5025 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.5025 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-09 08:38:12.5025 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 08:38:12.5025 Trace  Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-09 08:38:12.5025 Trace   Scanning Property Culture '' System.Globalization
+2019-09-09 08:38:12.5025 Trace   Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-09 08:38:12.5025 Trace   Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 08:38:12.5025 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.5152 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 08:38:12.5152 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 08:38:12.5152 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-09 08:38:12.5152 Trace Initializing Layout Renderer: ${literal}
+2019-09-09 08:38:12.5152 Trace Initializing Layout Renderer: ${shortdate}
+2019-09-09 08:38:12.5152 Trace Initializing Layout Renderer: ${literal}
+2019-09-09 08:38:12.5152 Trace Initializing 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'
+2019-09-09 08:38:12.5152 Trace FindReachableObject<System.Object>:
+2019-09-09 08:38:12.5152 Trace Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-09 08:38:12.5152 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 08:38:12.5152 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 08:38:12.5152 Trace  Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-09 08:38:12.5152 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 08:38:12.5152 Trace Initializing File Target[logfile]
+2019-09-09 08:38:12.5328 Trace FindReachableObject<NLog.Layouts.Layout>:
+2019-09-09 08:38:12.5328 Trace Scanning FileTarget 'File Target[logfile]'
+2019-09-09 08:38:12.5328 Trace  Scanning Property FileName ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'' NLog.Layouts
+2019-09-09 08:38:12.5328 Trace  Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-09 08:38:12.5328 Trace  Scanning Property LineEnding 'Default' NLog.Targets
+2019-09-09 08:38:12.5328 Trace  Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
+2019-09-09 08:38:12.5328 Trace  Scanning Property Layout ''${longdate} ${level:uppercase=true} ${message}'' NLog.Layouts
+2019-09-09 08:38:12.5328 Trace  Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-09 08:38:12.5328 Trace File Target[logfile] has 2 layouts
+2019-09-09 08:38:12.5328 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender+Factory
+2019-09-09 08:45:39.7650 Debug Targets for LoggerService.LoggerManager by level:
+2019-09-09 08:45:39.7650 Debug Trace =>
+2019-09-09 08:45:39.7650 Debug Debug => logfile
+2019-09-09 08:45:39.7650 Debug Info => logfile
+2019-09-09 08:45:39.7650 Debug Warn => logfile
+2019-09-09 08:45:39.7650 Debug Error => logfile
+2019-09-09 08:45:39.7650 Debug Fatal => logfile
+2019-09-09 08:45:39.8458 Debug FileTarget(Name=logfile): Process file 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt' on startup
+2019-09-09 08:45:39.9041 Debug Creating file appender: D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt
+2019-09-09 08:45:39.9111 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:47:12.6251 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:47:17.9798 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:48:07.9342 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:48:27.0226 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:48:42.8738 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:48:48.2553 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:48:51.4618 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:48:58.9175 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:49:01.1805 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:49:13.9369 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:49:15.8266 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:49:21.1555 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:49:23.2561 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:50:38.3361 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:50:41.2377 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:50:46.3986 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:50:49.5082 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:56:24.5421 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:57:29.7461 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 08:57:34.3274 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:03:31.7476 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:03:35.3600 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:03:40.7854 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:04:59.9058 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:05:10.0660 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:05:17.0999 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:05:23.2495 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:05:31.8616 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:05:47.7402 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:05:53.7234 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:05:57.2567 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:05:59.2305 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:06:32.2693 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:06:40.8717 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:06:53.3042 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:07:04.2502 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:07:17.1139 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:07:19.2758 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:07:21.4704 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:08:40.0410 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:11:16.0171 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:11:36.0971 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:11:49.4289 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:12:00.8477 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:12:16.9266 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:12:23.5615 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:12:41.2107 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:12:52.6995 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:12:57.9647 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:13:00.4071 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:15:53.8100 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:16:09.5105 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:16:38.5419 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:16:39.9589 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:16:41.8325 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:16:46.9950 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:16:48.0203 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:16:49.7370 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:18:32.6344 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:21:44.5177 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:22:31.5435 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:22:47.0475 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:22:49.3173 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:22:51.5525 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:24:10.8706 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:24:18.7395 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:24:40.8257 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:26:52.9577 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:26:57.0451 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:27:00.0931 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:27:03.2607 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:27:04.5742 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:27:08.5721 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:27:21.5413 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:27:26.3979 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:28:08.4193 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:28:18.4422 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:28:25.1132 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:28:32.1065 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:31:59.8237 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:32:04.3237 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:32:27.7568 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:32:32.5649 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:32:45.0619 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:32:46.7708 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:33:18.6187 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:34:18.5810 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:35:43.7156 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:35:52.8874 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:36:04.9414 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:36:08.4297 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:36:14.6597 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:36:55.6347 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:37:20.5990 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:38:44.0858 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:39:04.7829 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:39:21.4816 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:39:21.5580 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:39:27.2439 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:39:29.6016 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:39:29.7135 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:40:16.5987 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:40:29.6668 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:40:46.6225 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:40:59.5900 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:41:14.4881 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:41:22.5799 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:41:32.8587 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:41:41.2215 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:41:50.3188 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:41:58.4824 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:42:01.7863 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:42:06.6331 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:42:09.8476 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:42:42.9438 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:42:50.3240 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:42:56.2988 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:43:01.7827 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:43:11.3689 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:43:20.7945 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:43:23.5527 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:43:34.5109 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:43:36.8585 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:44:03.5726 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:44:08.4845 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:44:24.0500 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:44:41.0428 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:44:47.5279 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:45:07.3028 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:45:40.3016 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:46:01.1418 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:46:08.4407 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:46:22.2394 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:46:56.2717 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:47:33.8284 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:47:43.3188 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:47:56.4431 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:48:38.7017 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:48:43.8804 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:49:05.7443 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:49:12.9099 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:49:20.6492 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:49:26.6004 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:49:34.7582 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:49:50.2402 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:50:02.3515 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:50:08.7720 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:50:19.2263 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:50:21.8424 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:50:24.0176 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:50:55.6795 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:51:00.7103 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:51:01.5621 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:51:04.0231 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:51:56.9982 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:52:03.9175 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:52:13.3433 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:52:27.8758 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:52:37.0594 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:52:51.3253 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:53:01.7587 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:53:10.2826 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:53:18.5045 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:53:25.4292 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:53:44.1890 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:53:50.2242 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:53:53.0948 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:53:56.0424 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:54:07.8299 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:54:40.2036 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:54:52.6129 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:54:53.6388 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:02.1765 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:02.2809 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:12.5991 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:12.7334 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:22.8805 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:23.6995 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:28.6048 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:28.7315 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:50.3656 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:50.7481 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:58.7293 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:55:58.8909 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:56:07.6088 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:56:07.6941 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:57:00.6483 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:57:00.8414 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:57:09.9813 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:57:10.1415 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:57:15.3384 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:57:15.5519 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:58:02.4109 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:58:02.5302 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:59:56.2986 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 09:59:56.5128 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:00:00.8727 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:00:01.0201 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:00:21.9363 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:00:22.0750 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:01:17.9845 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:01:18.1990 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:01:34.1580 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:01:35.8478 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:01:35.9016 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:02:51.7065 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:02:51.8306 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:00.3989 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:00.4925 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:16.6680 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:16.7856 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:24.3306 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:24.4951 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:38.4815 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:38.5953 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:46.9600 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:47.1225 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:55.4724 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:03:55.5842 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:09:39.6317 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:09:39.8613 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:09:46.6978 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:09:46.8786 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:10:02.1490 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:10:02.3611 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:10:11.6905 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:10:11.7841 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:10:26.4826 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:10:26.6254 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:10:39.1026 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:10:39.2198 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:12:18.5543 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:12:18.6898 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:12:33.8096 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:12:34.0113 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:12:48.2823 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:12:48.4648 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:13:17.3012 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:13:17.3877 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:13:55.5763 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:13:55.6799 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:14:02.9194 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:14:03.0150 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:14:17.6165 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:14:17.7485 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:17:51.7294 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:17:52.0859 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:17:56.5854 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:17:56.6522 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:18:10.4734 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:18:10.7149 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:18:23.8675 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:18:24.4109 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:18:34.8143 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:18:34.9702 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:18:45.2284 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:18:45.3244 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:19:13.5088 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:19:13.9376 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:19:23.7364 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:19:23.9282 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:19:24.0759 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:19:26.2412 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:20:07.5151 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:20:11.5886 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:20:19.4305 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:20:21.9749 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:20:46.2966 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:20:59.8843 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:21:00.0551 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:21:06.9158 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:21:14.0497 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:21:14.1320 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:21:17.2530 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:21:18.7049 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:21:18.7539 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:24:18.7005 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:24:18.8291 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:24:27.3971 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:24:27.4701 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:25:00.4458 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:25:01.9338 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:25:02.0309 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:25:04.2230 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:25:32.6287 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:26:41.6063 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 10:26:52.0186 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:12:19.1034 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:12:49.6724 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:14:41.3964 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:14:43.6083 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:18:00.4530 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:18:03.0686 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:18:06.2418 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:52:05.1381 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:52:07.4124 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:55:01.5309 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:55:36.1884 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:55:50.1358 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:55:50.9952 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:55:54.8286 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:56:01.3175 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:56:03.8056 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:56:04.1400 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:57:10.0568 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 11:57:10.1622 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:07:37.3975 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:07:42.6594 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:07:42.7999 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:09:17.4775 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:09:17.4775 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:09:52.0264 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:09:52.0584 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:13.4223 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:13.4775 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:29.8925 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:37.3014 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:37.3125 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:41.7061 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:47.8300 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:47.9563 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:50.5283 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:53.1232 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:53.2388 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:11:54.8369 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:14:57.0103 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:14:59.4984 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:15:01.9653 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:15:02.1082 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:15:27.8953 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:34:57.1074 Debug ScanAssembly('NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
+2019-09-09 12:34:57.7302 Debug Found assembly location directory: 'C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0' (NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c)
+2019-09-09 12:34:57.7302 Debug Search for auto loading files in location: C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0
+2019-09-09 12:34:57.7302 Debug Found assembly location directory: 'D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2' (AccountOwnerServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)
+2019-09-09 12:34:57.7302 Debug Search for auto loading files in location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-09 12:34:57.7450 Debug Auto loading based on AppDomain-BaseDirectory found location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-09 12:34:57.7450 Debug Search for auto loading files in location: D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2
+2019-09-09 12:34:57.7450 Debug Start auto loading, location: C:\Users\Patrick.Makanga.CRAFTSILICON\.nuget\packages\nlog\4.6.5\lib\netstandard2.0
+2019-09-09 12:34:57.7450 Trace Assembly 'Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' will be hidden in callsite stacktrace
+2019-09-09 12:34:57.7450 Trace Assembly 'Microsoft.Extensions.Logging.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' will be hidden in callsite stacktrace
+2019-09-09 12:34:57.7450 Debug Auto loading done
+2019-09-09 12:34:57.7450 Info Message Template Auto Format enabled
+2019-09-09 12:34:57.8360 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.8412 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-09 12:34:57.8871 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2019-09-09 12:34:57.9413 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2019-09-09 12:34:57.9413 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.9413 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 12:34:57.9494 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.9494 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-09 12:34:57.9494 Trace  Scanning Property Culture '' System.Globalization
+2019-09-09 12:34:57.9494 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-09 12:34:57.9494 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 12:34:57.9494 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:57.9494 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 12:34:57.9628 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.9628 Trace Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2019-09-09 12:34:57.9628 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.9628 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-09 12:34:57.9852 Debug Setting 'FileTarget.name' to 'logfile'
+2019-09-09 12:34:57.9852 Debug Setting 'FileTarget.fileName' to 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'
+2019-09-09 12:34:57.9852 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.9852 Trace Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-09 12:34:57.9852 Debug Setting 'FileTarget.layout' to '${longdate} ${level:uppercase=true} ${message}'
+2019-09-09 12:34:57.9852 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.9952 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-09 12:34:57.9952 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2019-09-09 12:34:57.9952 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2019-09-09 12:34:57.9952 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.9952 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 12:34:57.9952 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:57.9952 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-09 12:34:57.9952 Trace  Scanning Property Culture '' System.Globalization
+2019-09-09 12:34:57.9952 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-09 12:34:57.9952 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 12:34:57.9952 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:57.9952 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 12:34:57.9952 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2019-09-09 12:34:58.0103 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-09 12:34:58.0103 Info Adding target FileTarget(Name=logfile)
+2019-09-09 12:34:58.0103 Debug Registered target logfile: NLog.Targets.FileTarget
+2019-09-09 12:34:58.0103 Trace ParseRulesElement
+2019-09-09 12:34:58.0590 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2019-09-09 12:34:58.0590 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2019-09-09 12:34:58.1348 Debug Watching path 'D:\my-Tests\2019\Angular\AccountOwnerServer\AccountOwnerServer' filter 'nlog.config' for changes.
+2019-09-09 12:34:58.1348 Debug --- NLog configuration dump ---
+2019-09-09 12:34:58.1348 Debug Targets:
+2019-09-09 12:34:58.1348 Debug File Target[logfile]
+2019-09-09 12:34:58.1348 Debug Rules:
+2019-09-09 12:34:58.1348 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] appendTo: [ logfile ]
+2019-09-09 12:34:58.1348 Debug --- End of NLog configuration dump ---
+2019-09-09 12:34:58.1348 Trace FindReachableObject<System.Object>:
+2019-09-09 12:34:58.1348 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] appendTo: [ logfile ]'
+2019-09-09 12:34:58.1504 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic
+2019-09-09 12:34:58.1504 Trace  Scanning FileTarget 'File Target[logfile]'
+2019-09-09 12:34:58.1504 Trace   Scanning Property FileName ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'' NLog.Layouts
+2019-09-09 12:34:58.1504 Trace   Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-09 12:34:58.1504 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:58.1504 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 12:34:58.1504 Trace    Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-09 12:34:58.1504 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 12:34:58.1504 Trace   Scanning Property Layout ''${longdate} ${level:uppercase=true} ${message}'' NLog.Layouts
+2019-09-09 12:34:58.1504 Trace   Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-09 12:34:58.1504 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:58.1504 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-09 12:34:58.1504 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 12:34:58.1504 Trace    Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-09 12:34:58.1504 Trace     Scanning Property Culture '' System.Globalization
+2019-09-09 12:34:58.1667 Trace     Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-09 12:34:58.1667 Trace     Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 12:34:58.1667 Trace      Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:58.1667 Trace      Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 12:34:58.1667 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 12:34:58.1667 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-09 12:34:58.1667 Trace   Scanning Property LineEnding 'Default' NLog.Targets
+2019-09-09 12:34:58.1667 Trace   Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
+2019-09-09 12:34:58.1667 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic
+2019-09-09 12:34:58.1667 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic
+2019-09-09 12:34:58.1667 Info Found 14 configuration items
+2019-09-09 12:34:58.1827 Trace Initializing Layout Renderer: ${message}
+2019-09-09 12:34:58.1827 Trace Initializing Layout Renderer: ${literal}
+2019-09-09 12:34:58.1827 Trace Initializing Layout Renderer: ${level}
+2019-09-09 12:34:58.1827 Trace Initializing SimpleLayout=Layout Renderer: ${level}
+2019-09-09 12:34:58.1827 Trace FindReachableObject<System.Object>:
+2019-09-09 12:34:58.1827 Trace Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 12:34:58.1827 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:58.1827 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 12:34:58.1980 Trace Initializing Layout Renderer: ${uppercase}
+2019-09-09 12:34:58.1980 Trace Initializing Layout Renderer: ${literal}
+2019-09-09 12:34:58.1980 Trace Initializing Layout Renderer: ${longdate}
+2019-09-09 12:34:58.1980 Trace Initializing '${longdate} ${level:uppercase=true} ${message}'
+2019-09-09 12:34:58.1980 Trace FindReachableObject<System.Object>:
+2019-09-09 12:34:58.1980 Trace Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-09 12:34:58.1980 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:58.1980 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2019-09-09 12:34:58.1980 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 12:34:58.1980 Trace  Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2019-09-09 12:34:58.1980 Trace   Scanning Property Culture '' System.Globalization
+2019-09-09 12:34:58.1980 Trace   Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2019-09-09 12:34:58.1980 Trace   Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2019-09-09 12:34:58.2154 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:58.2154 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2019-09-09 12:34:58.2154 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 12:34:58.2154 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2019-09-09 12:34:58.2154 Trace Initializing Layout Renderer: ${literal}
+2019-09-09 12:34:58.2154 Trace Initializing Layout Renderer: ${shortdate}
+2019-09-09 12:34:58.2154 Trace Initializing Layout Renderer: ${literal}
+2019-09-09 12:34:58.2154 Trace Initializing 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'
+2019-09-09 12:34:58.2154 Trace FindReachableObject<System.Object>:
+2019-09-09 12:34:58.2154 Trace Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-09 12:34:58.2154 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2019-09-09 12:34:58.2287 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 12:34:58.2287 Trace  Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2019-09-09 12:34:58.2287 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2019-09-09 12:34:58.2287 Trace Initializing File Target[logfile]
+2019-09-09 12:34:58.2287 Trace FindReachableObject<NLog.Layouts.Layout>:
+2019-09-09 12:34:58.2287 Trace Scanning FileTarget 'File Target[logfile]'
+2019-09-09 12:34:58.2435 Trace  Scanning Property FileName ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt'' NLog.Layouts
+2019-09-09 12:34:58.2435 Trace  Scanning SimpleLayout ''D:/my-Tests/2019/Angular/AccountOwnerServer/logs/${shortdate}_logfile.txt''
+2019-09-09 12:34:58.2435 Trace  Scanning Property Layout ''${longdate} ${level:uppercase=true} ${message}'' NLog.Layouts
+2019-09-09 12:34:58.2435 Trace  Scanning SimpleLayout ''${longdate} ${level:uppercase=true} ${message}''
+2019-09-09 12:34:58.2435 Trace  Scanning Property LineEnding 'Default' NLog.Targets
+2019-09-09 12:34:58.2435 Trace  Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
+2019-09-09 12:34:58.2435 Trace File Target[logfile] has 2 layouts
+2019-09-09 12:34:58.2612 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender+Factory
+2019-09-09 12:42:51.1848 Debug Targets for LoggerService.LoggerManager by level:
+2019-09-09 12:42:51.1955 Debug Trace =>
+2019-09-09 12:42:51.1955 Debug Debug => logfile
+2019-09-09 12:42:51.1955 Debug Info => logfile
+2019-09-09 12:42:51.1955 Debug Warn => logfile
+2019-09-09 12:42:51.1955 Debug Error => logfile
+2019-09-09 12:42:51.1955 Debug Fatal => logfile
+2019-09-09 12:42:51.2732 Debug FileTarget(Name=logfile): Process file 'D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt' on startup
+2019-09-09 12:42:51.2732 Debug Creating file appender: D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt
+2019-09-09 12:42:51.2904 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:43:09.7362 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:43:09.8134 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:43:24.3202 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:44:26.5337 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:45:25.9105 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:45:43.2803 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:47:08.0447 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:47:37.3164 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:48:09.8488 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:48:18.4104 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:48:31.5002 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:48:39.7026 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:50:06.5808 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:50:16.0003 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:50:24.4134 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:50:30.3355 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:50:55.9875 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:51:17.5908 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:51:39.2169 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:51:54.2677 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:52:45.2891 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:53:24.0087 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:53:31.1432 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:53:46.4607 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:53:51.3554 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:53:59.4646 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:54:23.9445 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:54:31.0108 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:55:04.6496 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:55:11.4391 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:55:38.8444 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:55:58.0148 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:55:58.1976 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:56:39.7563 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:57:15.1497 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:57:15.1497 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:58:03.6262 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:58:21.2918 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:58:21.3007 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:58:31.8187 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:59:04.3551 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:59:06.2625 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:59:07.6991 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 12:59:14.5134 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:00:52.3046 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:01:32.8264 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:01:32.9615 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:01:35.3396 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:01:37.0353 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:01:37.1050 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:01:44.3862 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:02:42.3752 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 13:02:50.3854 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:11:47.5209 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:11:48.8667 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:11:51.5070 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:11:51.5462 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:11:54.6507 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:11:56.1268 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:11:56.1813 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:12:01.0761 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:12:04.7329 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:12:04.8664 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False
+2019-09-09 14:12:07.1284 Trace Opening D:/my-Tests/2019/Angular/AccountOwnerServer/logs/2019-09-09_logfile.txt with allowFileSharedWriting=False

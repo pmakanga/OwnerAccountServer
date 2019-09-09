@@ -1,0 +1,396 @@
+2019-09-09 08:45:39.8071 INFO $Retuened all accounts and their owners
+2019-09-09 08:47:12.6251 INFO $Retuened all accounts and their owners
+2019-09-09 08:47:17.9798 INFO $Retuened all accounts and their owners
+2019-09-09 08:48:07.9342 INFO $Retuened all accounts and their owners
+2019-09-09 08:48:27.0226 INFO $Retuened all accounts and their owners
+2019-09-09 08:48:42.8738 INFO $Retuened all accounts and their owners
+2019-09-09 08:48:48.2553 INFO Returned all owners from database.
+2019-09-09 08:48:51.4618 INFO Returned owner with details for id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-09-09 08:48:58.9175 INFO $Retuened all accounts and their owners
+2019-09-09 08:49:01.1805 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 08:49:13.9369 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 08:49:15.8266 INFO $Retuened all accounts and their owners
+2019-09-09 08:49:21.1555 INFO $Retuened all accounts and their owners
+2019-09-09 08:49:23.2561 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 08:50:38.3361 ERROR Account with id: 00000000-0000-0000-0000-000000000000 hasn't been found in the db
+2019-09-09 08:50:41.2377 INFO $Retuened all accounts and their owners
+2019-09-09 08:50:46.3986 INFO $Retuened all accounts and their owners
+2019-09-09 08:50:49.5082 ERROR Account with id: 00000000-0000-0000-0000-000000000000 hasn't been found in the db
+2019-09-09 08:56:24.5421 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 08:57:29.7461 INFO $Retuened all accounts and their owners
+2019-09-09 08:57:34.3274 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:03:31.7476 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:03:35.3600 INFO $Retuened all accounts and their owners
+2019-09-09 09:03:40.7854 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:04:59.9058 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:05:10.0660 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:05:17.0999 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:05:23.2495 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:05:31.8616 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:05:47.7402 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:05:53.7234 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:05:57.2567 INFO $Retuened all accounts and their owners
+2019-09-09 09:05:59.2305 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:06:32.2693 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:06:40.8717 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:06:53.3042 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:07:04.2502 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:07:17.1139 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:07:19.2758 INFO $Retuened all accounts and their owners
+2019-09-09 09:07:21.4704 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:08:40.0410 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:11:16.0171 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:11:36.0971 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:11:49.4289 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:12:00.8477 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:12:16.9266 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:12:23.5615 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:12:41.2107 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:12:52.6995 INFO $Retuened all accounts and their owners
+2019-09-09 09:12:57.9647 INFO $Retuened all accounts and their owners
+2019-09-09 09:13:00.4071 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:15:53.8100 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:16:09.5105 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:16:38.5419 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:16:39.9589 INFO $Retuened all accounts and their owners
+2019-09-09 09:16:41.8325 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:16:46.9950 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:16:48.0203 INFO $Retuened all accounts and their owners
+2019-09-09 09:16:49.7370 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:18:32.6344 INFO $Retuened all accounts and their owners
+2019-09-09 09:21:44.5177 INFO $Retuened all accounts and their owners
+2019-09-09 09:22:31.5435 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:22:47.0475 INFO $Retuened all accounts and their owners
+2019-09-09 09:22:49.3173 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:22:51.5525 INFO $Retuened all accounts and their owners
+2019-09-09 09:24:10.8706 INFO $Retuened all accounts and their owners
+2019-09-09 09:24:18.7395 INFO $Retuened all accounts and their owners
+2019-09-09 09:24:40.8257 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:26:52.9577 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:26:57.0451 INFO $Retuened all accounts and their owners
+2019-09-09 09:27:00.0931 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:27:03.2607 INFO $Retuened all accounts and their owners
+2019-09-09 09:27:04.5742 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:27:08.5721 INFO $Retuened all accounts and their owners
+2019-09-09 09:27:21.5413 INFO $Retuened all accounts and their owners
+2019-09-09 09:27:26.3979 INFO $Retuened all accounts and their owners
+2019-09-09 09:28:08.4193 INFO Returned owners and Ids from database.
+2019-09-09 09:28:18.4422 INFO $Retuened all accounts and their owners
+2019-09-09 09:28:25.1132 INFO Returned account with id: eccadf79-85fe-402f-893c-32d3f03ed9b1
+2019-09-09 09:28:32.1065 INFO $Retuened all accounts and their owners
+2019-09-09 09:31:59.8237 INFO $Retuened all accounts and their owners
+2019-09-09 09:32:04.3237 INFO $Retuened all accounts and their owners
+2019-09-09 09:32:27.7568 INFO Returned account with id: eccadf79-85fe-402f-893c-32d3f03ed9b1
+2019-09-09 09:32:32.5649 INFO $Retuened all accounts and their owners
+2019-09-09 09:32:45.0619 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:32:46.7708 INFO $Retuened all accounts and their owners
+2019-09-09 09:33:18.6187 INFO $Retuened all accounts and their owners
+2019-09-09 09:34:18.5810 INFO $Retuened all accounts and their owners
+2019-09-09 09:35:43.7156 INFO $Retuened all accounts and their owners
+2019-09-09 09:35:52.8874 INFO $Retuened all accounts and their owners
+2019-09-09 09:36:04.9414 INFO $Retuened all accounts and their owners
+2019-09-09 09:36:08.4297 INFO $Retuened all accounts and their owners
+2019-09-09 09:36:14.6597 INFO $Retuened all accounts and their owners
+2019-09-09 09:36:55.6347 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:37:20.5990 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:38:44.0858 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:39:04.7829 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:39:21.4816 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:39:21.5580 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:39:27.2439 INFO $Retuened all accounts and their owners
+2019-09-09 09:39:29.6016 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:39:29.7135 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:40:16.5987 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:40:29.6668 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:40:46.6225 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:40:59.5900 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:41:14.4881 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:41:22.5799 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:41:32.8587 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:41:41.2215 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:41:50.3188 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:41:58.4824 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:42:01.7863 INFO $Retuened all accounts and their owners
+2019-09-09 09:42:06.6331 INFO $Retuened all accounts and their owners
+2019-09-09 09:42:09.8476 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:42:42.9438 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:42:50.3240 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:42:56.2988 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:43:01.7827 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:43:11.3689 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:43:20.7945 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:43:23.5527 INFO $Retuened all accounts and their owners
+2019-09-09 09:43:34.5109 INFO $Retuened all accounts and their owners
+2019-09-09 09:43:36.8585 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:44:03.5726 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:44:08.4845 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:44:24.0500 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:44:41.0428 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:44:47.5279 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:45:07.3028 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:45:40.3016 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:46:01.1418 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:46:08.4407 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:46:22.2394 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:46:56.2717 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:47:33.8284 INFO $Retuened all accounts and their owners
+2019-09-09 09:47:43.3188 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:47:56.4431 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:48:38.7017 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:48:43.8804 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:49:05.7443 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:49:12.9099 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:49:20.6492 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:49:26.6004 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:49:34.7582 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:49:50.2402 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:50:02.3515 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:50:08.7720 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:50:19.2263 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:50:21.8424 INFO $Retuened all accounts and their owners
+2019-09-09 09:50:24.0176 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:50:55.6795 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:51:00.7103 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:51:01.5621 INFO $Retuened all accounts and their owners
+2019-09-09 09:51:04.0231 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:51:56.9982 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:52:03.9175 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:52:13.3433 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:52:27.8758 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:52:37.0594 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:52:51.3253 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:53:01.7587 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:53:10.2826 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:53:18.5045 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:53:25.4292 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:53:44.1890 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:53:50.2242 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:53:53.0948 INFO $Retuened all accounts and their owners
+2019-09-09 09:53:56.0424 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:54:07.8299 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:54:40.2036 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:54:52.6129 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:54:53.6388 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:55:02.1765 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:55:02.2809 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:55:12.5991 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:55:12.7334 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:55:22.8805 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:55:23.6995 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:55:28.6048 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:55:28.7315 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:55:50.3656 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:55:50.7481 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:55:58.7293 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:55:58.8909 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:56:07.6088 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:56:07.6941 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:57:00.6483 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:57:00.8414 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:57:09.9813 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:57:10.1415 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:57:15.3384 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:57:15.5519 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:58:02.4109 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:58:02.5302 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 09:59:56.2986 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 09:59:56.5128 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:00:00.8727 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:00:01.0201 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:00:21.9363 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:00:22.0750 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:01:17.9845 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:01:18.1990 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:01:34.1580 INFO $Retuened all accounts and their owners
+2019-09-09 10:01:35.8478 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:01:35.9016 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:02:51.7065 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:02:51.8306 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:03:00.3989 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:03:00.4925 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:03:16.6680 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:03:16.7856 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:03:24.3306 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:03:24.4951 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:03:38.4815 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:03:38.5953 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:03:46.9600 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:03:47.1225 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:03:55.4724 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:03:55.5842 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:09:39.6317 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:09:39.8613 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:09:46.6978 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:09:46.8786 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:10:02.1490 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:10:02.3611 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:10:11.6905 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:10:11.7841 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:10:26.4826 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:10:26.6254 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:10:39.1026 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:10:39.2198 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:12:18.5543 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:12:18.6898 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:12:33.8096 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:12:34.0113 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:12:48.2823 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:12:48.4648 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:13:17.3012 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:13:17.3877 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:13:55.5763 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:13:55.6799 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:14:02.9194 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:14:03.0150 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:14:17.6165 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:14:17.7485 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:17:51.7294 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:17:52.0859 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:17:56.5854 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:17:56.6522 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:18:10.4734 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:18:10.7149 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:18:23.8675 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:18:24.4109 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:18:34.8143 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:18:34.9702 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:18:45.2284 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:18:45.3244 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:19:13.5088 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:19:13.9376 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:19:23.7364 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:19:23.9282 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:19:24.0759 INFO $Retuened all accounts and their owners
+2019-09-09 10:19:26.2412 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:20:07.5151 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:20:11.5886 INFO $Retuened all accounts and their owners
+2019-09-09 10:20:19.4305 INFO $Retuened all accounts and their owners
+2019-09-09 10:20:21.9749 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:20:46.2966 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:20:59.8843 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:21:00.0551 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:21:06.9158 INFO $Retuened all accounts and their owners
+2019-09-09 10:21:14.0497 INFO Returned account with id: aa15f658-04bb-4f73-82af-82db49d0fbef
+2019-09-09 10:21:14.1320 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-09-09 10:21:17.2530 INFO $Retuened all accounts and their owners
+2019-09-09 10:21:18.7049 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:21:18.7539 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:24:18.7005 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:24:18.8291 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:24:27.3971 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 10:24:27.4701 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 10:25:00.4458 INFO $Retuened all accounts and their owners
+2019-09-09 10:25:01.9338 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-09 10:25:02.0309 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-09-09 10:25:04.2230 INFO $Retuened all accounts and their owners
+2019-09-09 10:25:32.6287 INFO $Retuened all accounts and their owners
+2019-09-09 10:26:41.6063 INFO $Retuened all accounts and their owners
+2019-09-09 10:26:52.0186 INFO $Retuened all accounts and their owners
+2019-09-09 11:12:19.1034 INFO $Retuened all accounts and their owners
+2019-09-09 11:12:49.6724 INFO $Retuened all accounts and their owners
+2019-09-09 11:14:41.3964 INFO $Retuened all accounts and their owners
+2019-09-09 11:14:43.6083 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 11:18:00.4530 INFO $Retuened all accounts and their owners
+2019-09-09 11:18:03.0686 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 11:18:06.2418 INFO $Retuened all accounts and their owners
+2019-09-09 11:52:05.1381 INFO $Retuened all accounts and their owners
+2019-09-09 11:52:07.4124 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 11:55:01.5309 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 11:55:36.1884 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 11:55:50.1358 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 11:55:50.9952 INFO Returned owners and Ids from database.
+2019-09-09 11:55:54.8286 INFO $Retuened all accounts and their owners
+2019-09-09 11:56:01.3175 INFO $Retuened all accounts and their owners
+2019-09-09 11:56:03.8056 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 11:56:04.1400 INFO Returned owners and Ids from database.
+2019-09-09 11:57:10.0568 INFO Returned owners and Ids from database.
+2019-09-09 11:57:10.1622 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 12:07:37.3975 INFO $Retuened all accounts and their owners
+2019-09-09 12:07:42.6594 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-09 12:07:42.7999 INFO Returned owners and Ids from database.
+2019-09-09 12:09:17.4775 INFO Returned owners and Ids from database.
+2019-09-09 12:09:17.4775 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-09 12:09:52.0264 INFO Returned owners and Ids from database.
+2019-09-09 12:09:52.0584 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-09 12:11:13.4223 INFO Returned owners and Ids from database.
+2019-09-09 12:11:13.4775 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-09 12:11:29.8925 INFO $Retuened all accounts and their owners
+2019-09-09 12:11:37.3014 INFO Returned account with id: 670775db-ecc0-4b90-a9ab-37cd0d8e2801
+2019-09-09 12:11:37.3014 INFO Returned owners and Ids from database.
+2019-09-09 12:11:41.7061 INFO $Retuened all accounts and their owners
+2019-09-09 12:11:47.8300 INFO Returned account with id: 60e935d1-b9e3-4486-ab11-b4903d066f8d
+2019-09-09 12:11:47.9563 INFO Returned owner with id: c1348646-63d0-40ed-9402-8a9eebf0b347
+2019-09-09 12:11:50.5283 INFO $Retuened all accounts and their owners
+2019-09-09 12:11:53.1232 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 12:11:53.2388 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 12:11:54.8369 INFO $Retuened all accounts and their owners
+2019-09-09 12:14:57.0103 INFO Returned owners and Ids from database.
+2019-09-09 12:14:59.4984 INFO $Retuened all accounts and their owners
+2019-09-09 12:15:01.9653 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-09 12:15:02.1082 INFO Returned owners and Ids from database.
+2019-09-09 12:15:27.8953 INFO $Retuened all accounts and their owners
+2019-09-09 12:42:51.2226 INFO $Retuened all accounts and their owners
+2019-09-09 12:43:09.7362 INFO Returned account with id: 6e6c7ea5-856c-4427-87a4-75c1489c36c4
+2019-09-09 12:43:09.8134 INFO Returned owners and Ids from database.
+2019-09-09 12:43:24.3202 INFO $Retuened all accounts and their owners
+2019-09-09 12:44:26.5337 INFO $Retuened all accounts and their owners
+2019-09-09 12:45:25.9105 INFO $Retuened all accounts and their owners
+2019-09-09 12:45:43.2803 INFO $Retuened all accounts and their owners
+2019-09-09 12:47:08.0447 INFO $Retuened all accounts and their owners
+2019-09-09 12:47:37.3164 INFO $Retuened all accounts and their owners
+2019-09-09 12:48:09.8488 INFO $Retuened all accounts and their owners
+2019-09-09 12:48:18.4104 INFO $Retuened all accounts and their owners
+2019-09-09 12:48:31.5002 INFO $Retuened all accounts and their owners
+2019-09-09 12:48:39.7026 INFO $Retuened all accounts and their owners
+2019-09-09 12:50:06.5808 INFO $Retuened all accounts and their owners
+2019-09-09 12:50:16.0003 INFO $Retuened all accounts and their owners
+2019-09-09 12:50:24.4134 INFO $Retuened all accounts and their owners
+2019-09-09 12:50:30.3355 INFO $Retuened all accounts and their owners
+2019-09-09 12:50:55.9875 INFO $Retuened all accounts and their owners
+2019-09-09 12:51:17.5908 INFO $Retuened all accounts and their owners
+2019-09-09 12:51:39.2169 INFO $Retuened all accounts and their owners
+2019-09-09 12:51:54.2677 INFO $Retuened all accounts and their owners
+2019-09-09 12:52:45.2891 INFO $Retuened all accounts and their owners
+2019-09-09 12:53:24.0087 INFO $Retuened all accounts and their owners
+2019-09-09 12:53:31.1432 INFO $Retuened all accounts and their owners
+2019-09-09 12:53:46.4607 INFO $Retuened all accounts and their owners
+2019-09-09 12:53:51.3554 INFO $Retuened all accounts and their owners
+2019-09-09 12:53:59.4646 INFO $Retuened all accounts and their owners
+2019-09-09 12:54:23.9445 INFO $Retuened all accounts and their owners
+2019-09-09 12:54:31.0108 INFO $Retuened all accounts and their owners
+2019-09-09 12:55:04.6496 INFO $Retuened all accounts and their owners
+2019-09-09 12:55:11.4391 INFO $Retuened all accounts and their owners
+2019-09-09 12:55:38.8444 INFO $Retuened all accounts and their owners
+2019-09-09 12:55:58.0148 INFO Returned owners and Ids from database.
+2019-09-09 12:55:58.1976 INFO Returned account with id: 6e6c7ea5-856c-4427-87a4-75c1489c36c4
+2019-09-09 12:56:39.7563 INFO $Retuened all accounts and their owners
+2019-09-09 12:57:15.1497 INFO Returned owners and Ids from database.
+2019-09-09 12:57:15.1497 INFO Returned account with id: a3fbad0b-7f48-4feb-8ac0-6d3bbc997bfc
+2019-09-09 12:58:03.6262 INFO $Retuened all accounts and their owners
+2019-09-09 12:58:21.2918 INFO Returned account with id: a3fbad0b-7f48-4feb-8ac0-6d3bbc997bfc
+2019-09-09 12:58:21.2918 INFO Returned owners and Ids from database.
+2019-09-09 12:58:31.8187 INFO $Retuened all accounts and their owners
+2019-09-09 12:59:04.3551 INFO Returned all owners from database.
+2019-09-09 12:59:06.2625 INFO $Retuened all accounts and their owners
+2019-09-09 12:59:07.6991 INFO Returned all owners from database.
+2019-09-09 12:59:14.5134 INFO $Retuened all accounts and their owners
+2019-09-09 13:00:52.3046 INFO $Retuened all accounts and their owners
+2019-09-09 13:01:32.8264 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 13:01:32.9615 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 13:01:35.3396 INFO $Retuened all accounts and their owners
+2019-09-09 13:01:37.0353 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 13:01:37.1050 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 13:01:44.3862 INFO $Retuened all accounts and their owners
+2019-09-09 13:02:42.3752 INFO $Retuened all accounts and their owners
+2019-09-09 13:02:50.3854 INFO $Retuened all accounts and their owners
+2019-09-09 14:11:47.5209 INFO Returned owners and Ids from database.
+2019-09-09 14:11:48.8667 INFO $Retuened all accounts and their owners
+2019-09-09 14:11:51.5070 INFO Returned owners and Ids from database.
+2019-09-09 14:11:51.5462 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 14:11:54.6507 INFO $Retuened all accounts and their owners
+2019-09-09 14:11:56.1268 INFO Returned account with id: 356a5a9b-64bf-4de0-bc84-5395a1fdc9c4
+2019-09-09 14:11:56.1813 INFO Returned owners and Ids from database.
+2019-09-09 14:12:01.0761 INFO $Retuened all accounts and their owners
+2019-09-09 14:12:04.7329 INFO Returned account with id: 03e91478-5608-4132-a753-d494dafce00b
+2019-09-09 14:12:04.8664 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2019-09-09 14:12:07.1284 INFO $Retuened all accounts and their owners
