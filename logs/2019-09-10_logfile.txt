@@ -1,0 +1,61 @@
+2019-09-10 09:30:16.7907 INFO $Retuened all accounts and their owners
+2019-09-10 09:31:29.9414 INFO $Retuened all accounts and their owners
+2019-09-10 09:32:36.7397 INFO $Retuened all accounts and their owners
+2019-09-10 09:32:39.1603 INFO Returned all owners from database.
+2019-09-10 09:32:48.8724 INFO Returned all owners from database.
+2019-09-10 09:35:00.9310 INFO Returned all owners from database.
+2019-09-10 09:36:27.6125 INFO Returned all owners from database.
+2019-09-10 09:36:35.1068 INFO Returned all owners from database.
+2019-09-10 09:36:43.8720 INFO Returned all owners from database.
+2019-09-10 09:39:43.7180 INFO Returned all owners from database.
+2019-09-10 09:39:57.0856 INFO Returned all owners from database.
+2019-09-10 09:42:27.9666 INFO Returned all owners from database.
+2019-09-10 09:44:02.2187 INFO Returned all owners from database.
+2019-09-10 09:44:14.7545 INFO Returned all owners from database.
+2019-09-10 09:44:31.1159 INFO Returned all owners from database.
+2019-09-10 09:44:37.2717 INFO Returned all owners from database.
+2019-09-10 09:45:05.7873 INFO Returned all owners from database.
+2019-09-10 09:45:28.2345 INFO Returned all owners from database.
+2019-09-10 09:59:10.3502 INFO Returned all owners from database.
+2019-09-10 09:59:15.6527 INFO Returned all owners from database.
+2019-09-10 10:00:52.0308 INFO Returned all owners from database.
+2019-09-10 10:00:57.8132 INFO Returned all owners from database.
+2019-09-10 10:01:03.8581 INFO Returned all owners from database.
+2019-09-10 10:01:17.0245 INFO Returned all owners from database.
+2019-09-10 10:01:27.4560 INFO Returned all owners from database.
+2019-09-10 10:01:29.8866 INFO Returned all owners from database.
+2019-09-10 10:04:04.6893 INFO Returned all owners from database.
+2019-09-10 10:04:19.7106 INFO $Retuened all accounts and their owners
+2019-09-10 10:04:23.4920 INFO Returned all owners from database.
+2019-09-10 10:04:28.6805 INFO Returned all owners from database.
+2019-09-10 10:04:33.8674 INFO Returned all owners from database.
+2019-09-10 10:07:38.2757 INFO Returned all owners from database.
+2019-09-10 10:09:11.0654 INFO Returned all owners from database.
+2019-09-10 10:11:47.8674 INFO Returned all owners from database.
+2019-09-10 10:12:27.5788 INFO Returned all owners from database.
+2019-09-10 10:12:44.5908 INFO Returned all owners from database.
+2019-09-10 10:13:47.6278 INFO Returned all owners from database.
+2019-09-10 10:13:58.7895 INFO $Retuened all accounts and their owners
+2019-09-10 10:14:02.8889 INFO $Retuened all accounts and their owners
+2019-09-10 10:14:19.9686 INFO $Retuened all accounts and their owners
+2019-09-10 10:14:20.7020 INFO Returned all owners from database.
+2019-09-10 10:14:24.2842 INFO $Retuened all accounts and their owners
+2019-09-10 10:14:32.0756 INFO $Retuened all accounts and their owners
+2019-09-10 10:14:38.7820 INFO Returned all owners from database.
+2019-09-10 10:14:56.8566 INFO Returned all owners from database.
+2019-09-10 10:26:14.0134 INFO $Retuened all accounts and their owners
+2019-09-10 10:26:16.4990 INFO Returned owners and Ids from database.
+2019-09-10 10:26:35.5171 INFO $Retuened all accounts and their owners
+2019-09-10 10:27:40.5411 INFO Returned all owners from database.
+2019-09-10 10:27:43.2341 INFO $Retuened all accounts and their owners
+2019-09-10 10:27:45.1540 INFO Returned owners and Ids from database.
+2019-09-10 11:18:11.7284 INFO $Retuened all accounts and their owners
+2019-09-10 11:18:15.4992 INFO Returned owners and Ids from database.
+2019-09-10 11:18:26.3357 INFO $Retuened all accounts and their owners
+2019-09-10 11:18:37.4628 INFO Returned account with id: 26b58379-51be-45c6-9691-f9c9cc3871dc
+2019-09-10 11:18:37.5012 INFO Returned owner with id: 1e700b79-fcf5-4c11-98e6-a772a9b00d47
+2019-09-10 11:18:40.8571 INFO $Retuened all accounts and their owners
+2019-09-10 14:39:20.9003 INFO $Retuned all accounts from the database.
+2019-09-10 14:45:35.6520 INFO Returned all owners from database.
+2019-09-10 14:52:49.2964 INFO $Retuned all accounts from the database.
+2019-09-10 14:53:39.2496 INFO $Retuned all accounts from the database.

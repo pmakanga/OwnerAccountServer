@@ -42,6 +42,8 @@ namespace AccountOwnerServer
 
             services.ConfigureRepositoryWrapper();
 
+            services.ConfigureSwagger();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -83,6 +85,13 @@ namespace AccountOwnerServer
             });
 
             app.UseStaticFiles();
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "AccountOwner API");
+            });
 
             app.UseMvc();
         }
